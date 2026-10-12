@@ -13,11 +13,11 @@
 | 2 | `readability-is-freedom.md` | mr standardgalactic, *Readability Is Freedom* | [standardgalactic.github.io](https://standardgalactic.github.io/) · absorbed at `8b-is/raw_research/readability-is-freedom-absorbed.md` |
 | 3 | `purple-people-eaters.txt` | mr standardgalactic, the diatribe capstone | [diatribe/purple-people-eaters.pdf](https://standardgalactic.github.io/diatribe/purple-people-eaters.pdf) · remote `standardgalactic/diatribe` |
 | 4 | `admissible-degradation.txt` | the admissibility lab (Flyxion) | absorbed at `8b-is/raw_research/admissible-degradation-absorbed.md` · the lab is the origin |
-| 5 | `the-diatribe-corpus` | mr standardgalactic, the eleven essays | [standardgalactic.github.io/diatribe](https://standardgalactic.github.io/diatribe) · remote `standardgalactic/diatribe` |
+| 5 | the diatribe corpus *(linked — no local file)* | mr standardgalactic, the eleven essays | [standardgalactic.github.io/diatribe](https://standardgalactic.github.io/diatribe) · remote `standardgalactic/diatribe` |
 
 ## the garden — the home repo and its rooms
 
-The five draw from **`standardgalactic/standardgalactic`**, the home of the
+Three of the five draw from **`standardgalactic/standardgalactic`**, the home of the
 [Standard Galactic Alphabet](https://standardgalactic.github.io/alphabet),
 and its satellite lanes. The vault-side index is
 `8b-is/raw_research/standardgalactic-wire-absorbed.md`; the lanes are:

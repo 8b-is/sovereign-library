@@ -45,9 +45,9 @@ each book to its root and the garden back to every room: three of the five
 are mr standardgalactic's hand, and the home repo
 ([`standardgalactic/standardgalactic`](https://github.com/standardgalactic/standardgalactic),
 home of the [Standard Galactic Alphabet](https://standardgalactic.github.io/alphabet))
-sits behind the shelf with its eight satellite lanes (diatribe · laboratory ·
-memnet · experiments · memory · privatization-of-competence · steel-sky ·
-Centerfuge). The vault-side index is
+sits behind the shelf with its eight satellite lanes (`diatribe` · `laboratory` ·
+`memnet` · `sg-experiments` · `sg-memory` · `sg-privatization-of-competence` ·
+`steel-sky` · `_cfq-src`). The vault-side index is
 `8b-is/raw_research/standardgalactic-wire-absorbed.md`. The garden can grow;
 the print canon cannot.
 

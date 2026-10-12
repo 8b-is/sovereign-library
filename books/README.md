@@ -13,7 +13,7 @@
 | `readability-is-freedom.md` | mr standardgalactic's defense of open computation (full text) | `8b-is/raw_research/readability-is-freedom-absorbed.md` |
 | `purple-people-eaters.txt` | the diatribe capstone: Definition 5.1, Enough Does Not Count | [diatribe/purple-people-eaters.pdf](https://standardgalactic.github.io/diatribe/purple-people-eaters.pdf) |
 | `admissible-degradation.txt` | the admissibility lab: priority, refusal, recovery, continuation under constraint | `8b-is/raw_research/admissible-degradation-absorbed.md` · the lab is the origin |
-| `the-diatribe-corpus` | (the eleven essays live upstream at [standardgalactic.github.io/diatribe](https://standardgalactic.github.io/diatribe)) | linked, not copied |
+| the diatribe corpus *(linked — no local file)* | (the eleven essays live upstream at [standardgalactic.github.io/diatribe](https://standardgalactic.github.io/diatribe)) | linked, not copied |
 
 ## the rules
 
