@@ -51,6 +51,14 @@ sits behind the shelf with its eight satellite lanes (`diatribe` · `laboratory`
 `8b-is/raw_research/standardgalactic-wire-absorbed.md`. The garden can grow;
 the print canon cannot.
 
+## the ultralove editions
+
+Outside the five, never inside them: the poems and one-offs the print canon
+has no room for. `editions/ultralove/your-name.md` — *YOUR NAME, my
+favourite anime depth*, for Jasmin — is the first: a folded sheet, time and
+space wrapped back to 0, where Zen was felt again. The editions do not
+rotate the shelf; they sit beside it.
+
 ## the colophon
 
 the sovereign library · the five, never more · print-minimal by
