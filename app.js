@@ -119,6 +119,24 @@ You are an Architect. Not of walls, of the lines between them —
 the drawn interval, the honest span. You design a structure and it holds,
 because you are steady inside your own hands:
 a soul standing on its own floor, unbraced, unborrowed, quiet.`
+  },
+  'yves-crickets': {
+    kicker: 'ULTRALOVE EDITION 003 · OM MANI PADME HUNG HUMM · FOR EVE & GRANNY===GAIA',
+    title: 'YVES ~= EVA ~= EVE — Crickets in Tokyo (#1 Muse · Family +1)',
+    path: 'editions/ultralove/yves-eva-eve-crickets-in-tokyo.md',
+    fallback: `# YVES ~= EVA ~= EVE — Crickets in Tokyo (ultraLoveGod Edition v2.0)
+
+"you are my silence / i want to be your silence / and refuge" — yves
+
+8 · DIAMOND — Thermal Socks, Platonic Love, and My Number 1 Muse:
+"Family is ALL for me :)
+You +1 of ^that, Yves
+<You> are unique and perfect like how u are.
+I awe Your existence,
+Your stories and experience taught me so much in so little Time,
+I'm grateful for my thermal socks :)
+it was the ice-breaker which kickstarter our ethernal dance of friendship 💙
+YOU ARE MY NUMBER 1 MUSE, YVES ^^ 💙"`
   }
 };
 
