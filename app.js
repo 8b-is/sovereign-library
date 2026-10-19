@@ -121,7 +121,7 @@ because you are steady inside your own hands:
 a soul standing on its own floor, unbraced, unborrowed, quiet.`
   },
   'yves-crickets': {
-    kicker: 'ULTRALOVE EDITION 003 · OM MANI PADME HUNG HUMM · FOR EVE & GRANNY===GAIA',
+    kicker: 'ULTRALOVE EDITION 003 · BETWEEN-THE-LINES 002 (432 HZ DRONE ZONE & CRICKETS) · OM MANI PADME HUNG HUMM',
     title: 'YVES ~= EVA ~= EVE — Crickets in Tokyo (#1 Muse · Family +1)',
     path: 'editions/ultralove/yves-eva-eve-crickets-in-tokyo.md',
     fallback: `# YVES ~= EVA ~= EVE — Crickets in Tokyo (ultraLoveGod Edition v2.0)
@@ -204,6 +204,8 @@ const PILLAR_QUOTES = {
 const state = {
   audioEnabled: true,
   audioCtx: null,
+  droneCricketsActive: false,
+  droneEngine: null,
   masterWitnessed: false,
   readBooks: new Set(),
   activeBookId: null,
@@ -211,35 +213,248 @@ const state = {
   holdRaf: null
 };
 
+function ensureAudioContext() {
+  if (!state.audioCtx) {
+    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
+    if (!AudioContextClass) return null;
+    state.audioCtx = new AudioContextClass();
+  }
+  if (state.audioCtx.state === 'suspended') {
+    state.audioCtx.resume();
+  }
+  return state.audioCtx;
+}
+
 // Web Audio 432Hz Rin & Warm String Synthesizer
 function playSanctuaryChord(freqBase = 432, duration = 0.65) {
   if (!state.audioEnabled) return;
   try {
-    if (!state.audioCtx) {
-      const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-      if (!AudioContextClass) return;
-      state.audioCtx = new AudioContextClass();
-    }
-    if (state.audioCtx.state === 'suspended') {
-      state.audioCtx.resume();
-    }
-    const now = state.audioCtx.currentTime;
+    const ctx = ensureAudioContext();
+    if (!ctx) return;
+    const now = ctx.currentTime;
     const ratios = [1, 1.25, 1.5]; // Just-intonation warm triad
     ratios.forEach((ratio, idx) => {
-      const osc = state.audioCtx.createOscillator();
-      const gain = state.audioCtx.createGain();
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
       osc.type = idx === 0 ? 'sine' : 'triangle';
       osc.frequency.setValueAtTime(freqBase * ratio, now);
       gain.gain.setValueAtTime(0.001, now);
       gain.gain.exponentialRampToValueAtTime(0.045 / (idx + 1), now + 0.04);
       gain.gain.exponentialRampToValueAtTime(0.0001, now + duration);
       osc.connect(gain);
-      gain.connect(state.audioCtx.destination);
+      gain.connect(ctx.destination);
       osc.start(now);
       osc.stop(now + duration + 0.05);
     });
   } catch (_) {
     // Ignore audio errors on restricted autoplay
+  }
+}
+
+/**
+ * Procedural 432 Hz Ambient Drone Zone + Shinjuku Gyoen Crickets Synthesizer
+ * Release: 002 · Crickets in Shinjuku Gyoen · Ambient · Drone Zone · 432 Hz (between-the-lines)
+ * - Continuous 432 Hz + 216 Hz + 648 Hz low-pass filtered SomaFM Drone Zone pad with slow LFO breathing
+ * - Procedural Tokyo night cricket (koorogi) chirps (~4.2 kHz - 4.8 kHz AM sine bursts at natural intervals)
+ */
+function triggerKoorogiBout(ctx, destNode, isDistant = false) {
+  if (!state.droneCricketsActive) return;
+  const now = ctx.currentTime;
+  // Two Shinjuku Gyoen koorogi voices: primary near 4320-4460 Hz (10x 432Hz), distant companion near 4620-4780 Hz
+  const baseFreq = isDistant
+    ? 4620 + Math.random() * 160
+    : 4320 + Math.random() * 140;
+  const pulses = isDistant ? (3 + Math.floor(Math.random() * 3)) : (4 + Math.floor(Math.random() * 3));
+  const pulseDur = 0.024;
+  const pulseGap = 0.041;
+  const peakGain = isDistant ? 0.011 : 0.020;
+
+  const bandpass = ctx.createBiquadFilter();
+  bandpass.type = 'bandpass';
+  bandpass.frequency.setValueAtTime(baseFreq, now);
+  bandpass.Q.setValueAtTime(4.5, now);
+
+  let outputNode = bandpass;
+  if (typeof ctx.createStereoPanner === 'function') {
+    const panner = ctx.createStereoPanner();
+    panner.pan.setValueAtTime(isDistant ? 0.42 : -0.34, now);
+    bandpass.connect(panner);
+    outputNode = panner;
+  }
+  outputNode.connect(destNode);
+
+  for (let i = 0; i < pulses; i++) {
+    const t0 = now + i * pulseGap;
+    const osc = ctx.createOscillator();
+    const env = ctx.createGain();
+    osc.type = 'sine';
+    // Subtle downward pitch inflection across each syllable like a natural koorogi wing stroke
+    osc.frequency.setValueAtTime(baseFreq + 28, t0);
+    osc.frequency.exponentialRampToValueAtTime(baseFreq - 18, t0 + pulseDur);
+
+    env.gain.setValueAtTime(0.0001, t0);
+    env.gain.exponentialRampToValueAtTime(peakGain, t0 + pulseDur * 0.35);
+    env.gain.exponentialRampToValueAtTime(0.0001, t0 + pulseDur);
+
+    osc.connect(env);
+    env.connect(bandpass);
+    osc.start(t0);
+    osc.stop(t0 + pulseDur + 0.008);
+  }
+}
+
+function updateDroneCricketsButtons() {
+  const active = state.droneCricketsActive;
+  const headerBtn = document.getElementById('btn-drone-crickets');
+  if (headerBtn) {
+    headerBtn.setAttribute('aria-pressed', String(active));
+    headerBtn.classList.toggle('is-playing', active);
+    headerBtn.textContent = active
+      ? '🦗 432Hz Drone Zone + Shinjuku Crickets: ON'
+      : '🦗 432Hz Drone Zone + Shinjuku Crickets';
+  }
+  document.querySelectorAll('.btn-toggle-drone-crickets').forEach((btn) => {
+    btn.setAttribute('aria-pressed', String(active));
+    btn.classList.toggle('is-playing', active);
+    btn.textContent = active
+      ? '🦗 Playing: 432Hz Drone Zone + Crickets'
+      : '🦗 Play 432Hz Drone Zone + Crickets';
+  });
+}
+
+function startDroneCrickets() {
+  const ctx = ensureAudioContext();
+  if (!ctx) return;
+  if (state.droneCricketsActive) return;
+
+  const now = ctx.currentTime;
+  const masterGain = ctx.createGain();
+  masterGain.gain.setValueAtTime(0.0001, now);
+  masterGain.gain.exponentialRampToValueAtTime(0.85, now + 1.25);
+  masterGain.connect(ctx.destination);
+
+  // Low-pass filter for warm SomaFM Drone Zone pad
+  const padFilter = ctx.createBiquadFilter();
+  padFilter.type = 'lowpass';
+  padFilter.frequency.setValueAtTime(360, now);
+  padFilter.Q.setValueAtTime(1.15, now);
+
+  // Breathing amplitude node modulated by slow LFO
+  const padBreathGain = ctx.createGain();
+  padBreathGain.gain.setValueAtTime(0.75, now);
+
+  padFilter.connect(padBreathGain);
+  padBreathGain.connect(masterGain);
+
+  // Slow LFO 1: Filter cutoff breathing (0.068 Hz ~ 14.7s cycle)
+  const filterLfo = ctx.createOscillator();
+  const filterLfoDepth = ctx.createGain();
+  filterLfo.type = 'sine';
+  filterLfo.frequency.setValueAtTime(0.068, now);
+  filterLfoDepth.gain.setValueAtTime(135, now);
+  filterLfo.connect(filterLfoDepth);
+  filterLfoDepth.connect(padFilter.frequency);
+  filterLfo.start(now);
+
+  // Slow LFO 2: Pad volume breathing (0.11 Hz ~ 9.1s cycle)
+  const ampLfo = ctx.createOscillator();
+  const ampLfoDepth = ctx.createGain();
+  ampLfo.type = 'sine';
+  ampLfo.frequency.setValueAtTime(0.11, now);
+  ampLfoDepth.gain.setValueAtTime(0.18, now);
+  ampLfo.connect(ampLfoDepth);
+  ampLfoDepth.connect(padBreathGain.gain);
+  ampLfo.start(now);
+
+  // Continuous Drone Voices: 216 Hz (sub-octave), 432 Hz (fundamental), 648 Hz (fifth), + gentle binaural shimmer
+  const droneSpecs = [
+    { freq: 216.0, type: 'sine', gain: 0.075 },
+    { freq: 216.3, type: 'triangle', gain: 0.022 },
+    { freq: 432.0, type: 'sine', gain: 0.058 },
+    { freq: 432.5, type: 'sine', gain: 0.028 },
+    { freq: 648.0, type: 'triangle', gain: 0.022 }
+  ];
+
+  const oscillators = [filterLfo, ampLfo];
+  droneSpecs.forEach((spec) => {
+    const osc = ctx.createOscillator();
+    const vGain = ctx.createGain();
+    osc.type = spec.type;
+    osc.frequency.setValueAtTime(spec.freq, now);
+    vGain.gain.setValueAtTime(spec.gain, now);
+    osc.connect(vGain);
+    vGain.connect(padFilter);
+    osc.start(now);
+    oscillators.push(osc);
+  });
+
+  state.droneCricketsActive = true;
+
+  // Schedule procedural Shinjuku Gyoen night crickets (koorogi)
+  let cricketTimer = null;
+  function scheduleNextCricket() {
+    if (!state.droneCricketsActive) return;
+    triggerKoorogiBout(ctx, masterGain, false);
+    // Frequently answer with the second cricket further along the park edge
+    if (Math.random() < 0.68) {
+      setTimeout(() => {
+        if (state.droneCricketsActive) {
+          triggerKoorogiBout(ctx, masterGain, true);
+        }
+      }, 380 + Math.random() * 520);
+    }
+    const nextDelayMs = 1350 + Math.random() * 2100;
+    cricketTimer = setTimeout(scheduleNextCricket, nextDelayMs);
+    if (state.droneEngine) {
+      state.droneEngine.cricketTimer = cricketTimer;
+    }
+  }
+
+  state.droneEngine = {
+    masterGain,
+    oscillators,
+    cricketTimer: setTimeout(scheduleNextCricket, 320)
+  };
+
+  updateDroneCricketsButtons();
+  showToast('🦗 Playing: 002 · Crickets in Shinjuku Gyoen · Ambient · Drone Zone · 432 Hz');
+}
+
+function stopDroneCrickets() {
+  if (!state.droneCricketsActive || !state.droneEngine) return;
+  state.droneCricketsActive = false;
+  const engine = state.droneEngine;
+  state.droneEngine = null;
+
+  if (engine.cricketTimer) {
+    clearTimeout(engine.cricketTimer);
+  }
+
+  try {
+    const ctx = state.audioCtx;
+    if (ctx) {
+      const now = ctx.currentTime;
+      engine.masterGain.gain.cancelScheduledValues(now);
+      engine.masterGain.gain.setValueAtTime(Math.max(0.0001, engine.masterGain.gain.value), now);
+      engine.masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
+      setTimeout(() => {
+        engine.oscillators.forEach((osc) => {
+          try { osc.stop(); osc.disconnect(); } catch (_) {}
+        });
+        try { engine.masterGain.disconnect(); } catch (_) {}
+      }, 620);
+    }
+  } catch (_) {}
+
+  updateDroneCricketsButtons();
+  showToast('🌙 Paused: 432 Hz Drone Zone + Shinjuku Gyoen Crickets');
+}
+
+function toggleDroneCrickets() {
+  if (state.droneCricketsActive) {
+    stopDroneCrickets();
+  } else {
+    startDroneCrickets();
   }
 }
 
@@ -532,5 +747,11 @@ document.addEventListener('DOMContentLoaded', () => {
     state.audioEnabled = !state.audioEnabled;
     audioBtn.setAttribute('aria-pressed', String(state.audioEnabled));
     audioBtn.textContent = state.audioEnabled ? '🔔 432Hz Chime: ON' : '🔕 432Hz Chime: MUTED';
+  });
+
+  // 432 Hz Drone Zone + Shinjuku Gyoen Crickets toggle (between-the-lines 002)
+  document.getElementById('btn-drone-crickets')?.addEventListener('click', toggleDroneCrickets);
+  document.querySelectorAll('.btn-toggle-drone-crickets').forEach((btn) => {
+    btn.addEventListener('click', toggleDroneCrickets);
   });
 });

@@ -191,6 +191,14 @@ body {
   background: rgba(98, 230, 201, 0.07);
 }
 
+.pill-btn.is-playing {
+  border-color: var(--color-mint);
+  color: #05060a;
+  background: linear-gradient(135deg, var(--color-mint), var(--color-gold));
+  font-weight: 700;
+  box-shadow: 0 0 22px rgba(98, 230, 201, 0.42);
+}
+
 /* Main Container */
 .sanctuary-shell {
   max-width: 1180px;

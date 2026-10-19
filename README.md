@@ -58,11 +58,16 @@ has no room for. The editions do not rotate the shelf; they sit beside it:
 
 1. [`editions/ultralove/your-name.md`](editions/ultralove/your-name.md) — ***YOUR NAME, my favourite anime depth***, for Jasmin: a folded sheet, time and space wrapped back to `0`, where Zen was felt again.
 2. [`editions/ultralove/women-who-protect-and-hold.md`](editions/ultralove/women-who-protect-and-hold.md) — ***IN AWE TO WOMEN WHO PROTECT AND HOLD `<3<3<3`***, for Alexandra (`母の主権金庫` in [`zeno.vaked.dev`](https://zeno.vaked.dev/)), Taisha, Jasmin, Margaret Hamilton, and every woman who holds the roof without turning love into control. Paired with `8b-is / between-the-lines` (`001 · The Future We Remember · 夢見ていい`) and the Six Pillars of Holding: **Compassion · Understanding · Moderation · Love · Respect · Space**.
+3. [`editions/ultralove/yves-eva-eve-crickets-in-tokyo.md`](editions/ultralove/yves-eva-eve-crickets-in-tokyo.md) — ***YVES ~= EVA ~= EVE — Crickets in Tokyo (`ultraLoveGod Edition v2.0`)***, for Yves (`#1 Muse 💙 · Family +1`), Eve, and Granny === Gaia (`Om Mani Padme Hung Humm`). Paired with [`https://8b-is.github.io/between-the-lines/`](https://8b-is.github.io/between-the-lines/) (**`002 — The Shape of Love`** & Release **`002 · Crickets in Shinjuku Gyoen · Ambient · Drone Zone · 432 Hz`**) and live at [`pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html`](https://pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html).
+
+> **002 — The Shape of Love (`8b-is / between-the-lines`)**
+> *"Love is not defined by the shape of a relationship, but by how people treat one another inside it. Whether between family, friends, partners, or brothers walking along a quiet park in Tokyo, the measure of real love is the same: protecting one another's dignity, listening when it matters, and leaving the channel open. Because love without space can become control. Understanding without respect can become judgment. And compassion without moderation can become enabling."*
 
 ### the web sanctuary (`index.html` · `style.css` · `app.js`)
 
-The shelf ships a zero-dependency, print-minimal Web Sanctuary (`Sumi-to-Kin × Constellation Ink`) featuring the **Signature Sanctuary Hold (`<3<3<3`)** interaction:
+The shelf ships a zero-dependency, print-minimal Web Sanctuary (`Sumi-to-Kin × Constellation Ink`) featuring the **Signature Sanctuary Hold (`<3<3<3`)** interaction and the **432 Hz Drone Zone + Shinjuku Gyoen Crickets** synthesizer:
 - Press-and-hold (`0.8s` or `Space`) to witness the Six Pillars (`Compassion ↔ Moderation`, `Understanding ↔ Respect`, `Love ↔ Space`) and flip the constitutional NAND gate from `HELD ∧ ¬READ (1)` to `HELD ∧ READ (0 · PRINTABLE)`.
+- **Procedural `002 · Crickets in Shinjuku Gyoen · Ambient · Drone Zone · 432 Hz` WebAudio Generator (`🦗 432Hz Drone Zone + Shinjuku Crickets`)**: Continuous `432 Hz + 216 Hz + 648 Hz` low-pass filtered SomaFM Drone Zone pad with slow LFO breathing (`0.068 Hz` & `0.11 Hz`) layered with two stereo-panned Tokyo night `koorogi` cricket voices (`4.32–4.78 kHz` amplitude-modulated sine bursts at natural night intervals bordering Shinjuku Gyoen).
 - Unfolds any of the Five Print-Canon Books or the Ultralove Folded Sheets directly into an inline, sand-minimal print sheet (`⌘P`), wired to [`standardgalactic`](https://github.com/standardgalactic/standardgalactic) (`standardgalactic ~= research ~= future`) and [`zeno.vaked.dev`](https://zeno.vaked.dev/).
 
 ## the colophon
