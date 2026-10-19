@@ -1,0 +1,819 @@
+/* ==========================================================================
+   THE SOVEREIGN LIBRARY — DESIGN SYSTEM TOKENS
+   Sumi-to-Kin (墨と金) × Constellation Ink (8b-is · vaked.dev · zeno.vaked.dev)
+   "Five books, never more. In awe to women who protect and hold <3<3<3"
+   ========================================================================== */
+
+:root {
+  /* Surface & Canvas */
+  --color-surface: #05060a;
+  --color-surface-raised: #0b0d14;
+  --color-surface-elevated: #111521;
+  --color-surface-paper: #141210;
+  --color-border: rgba(232, 176, 92, 0.18);
+  --color-border-subtle: rgba(255, 255, 255, 0.08);
+  --color-border-strong: rgba(98, 230, 201, 0.42);
+
+  /* Brand & Semantic Constellation Ink */
+  --color-mint: #62e6c9;
+  --color-gold: #e8b05c;
+  --color-violet: #b48bff;
+  --color-sakura: #f7a8b8;
+  --color-cyan: #00f0ff;
+
+  /* Typography Ink */
+  --color-text: #f3f1ea;
+  --color-text-muted: #9b99a9;
+  --color-text-dim: #666477;
+
+  /* Semantic Status */
+  --color-success: #62e6c9;
+  --color-warning: #e8b05c;
+  --color-danger: #ff6b81;
+
+  /* Typography Families */
+  --font-display: 'Shippori Mincho', 'Hiragino Mincho ProN', Georgia, serif;
+  --font-body: 'Shippori Mincho', Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Spacing Scale (4px base) */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* Motion */
+  --duration-fast: 150ms;
+  --duration-normal: 250ms;
+  --duration-slow: 400ms;
+  --ease-out: cubic-bezier(0.0, 0.0, 0.2, 1);
+  --ease-in: cubic-bezier(0.4, 0.0, 1, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  line-height: 1.65;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 18% 12%, rgba(247, 168, 184, 0.07) 0%, transparent 42%),
+    radial-gradient(circle at 82% 16%, rgba(98, 230, 201, 0.06) 0%, transparent 45%),
+    radial-gradient(circle at 50% 88%, rgba(232, 176, 92, 0.06) 0%, transparent 50%),
+    var(--color-surface);
+  color: var(--color-text);
+  overflow-x: hidden;
+}
+
+/* Focus Accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-mint);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+
+/* Top Sanctuary Header */
+.sanctuary-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  padding: var(--space-3) var(--space-6);
+  background: rgba(5, 6, 10, 0.86);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.brand-cluster {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.brand-glyph {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-gold);
+  background: radial-gradient(circle at 30% 30%, rgba(232, 176, 92, 0.22), rgba(5, 6, 10, 0.95));
+  display: grid;
+  place-items: center;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: var(--color-gold);
+  letter-spacing: -0.03em;
+}
+
+.brand-name {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  color: var(--color-text);
+}
+
+.brand-tagline {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--color-text-muted);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 38px;
+  padding: 0.4rem 0.85rem;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border-subtle);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--color-text);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform var(--duration-fast) var(--ease-out),
+              border-color var(--duration-fast) var(--ease-out),
+              background var(--duration-fast) var(--ease-out);
+}
+
+.pill-btn:hover {
+  border-color: var(--color-gold);
+  background: rgba(232, 176, 92, 0.08);
+  transform: translateY(-1px);
+}
+
+.pill-btn.sakura {
+  border-color: rgba(247, 168, 184, 0.42);
+  color: var(--color-sakura);
+  background: rgba(247, 168, 184, 0.07);
+}
+
+.pill-btn.mint {
+  border-color: rgba(98, 230, 201, 0.42);
+  color: var(--color-mint);
+  background: rgba(98, 230, 201, 0.07);
+}
+
+/* Main Container */
+.sanctuary-shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: var(--space-8) var(--space-4) var(--space-16);
+}
+
+@media (min-width: 768px) {
+  .sanctuary-shell {
+    padding: var(--space-12) var(--space-6) var(--space-16);
+  }
+}
+
+/* Hero Section — Breathing Room (Ma) */
+.hero-sanctuary {
+  text-align: center;
+  max-width: 840px;
+  margin: 0 auto var(--space-12);
+  padding: var(--space-8) var(--space-4);
+  position: relative;
+}
+
+.hero-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.3rem 0.9rem;
+  border-radius: var(--radius-full);
+  border: 1px solid rgba(247, 168, 184, 0.35);
+  background: rgba(247, 168, 184, 0.07);
+  color: var(--color-sakura);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: var(--space-4);
+}
+
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4.6vw, 3.35rem);
+  font-weight: 800;
+  line-height: 1.16;
+  letter-spacing: -0.02em;
+  margin-bottom: var(--space-4);
+  background: linear-gradient(135deg, #ffffff 0%, #f7a8b8 48%, #e8b05c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-subtitle {
+  font-size: clamp(1rem, 1.8vw, 1.18rem);
+  color: var(--color-text-muted);
+  max-width: 680px;
+  margin: 0 auto var(--space-6);
+  line-height: 1.75;
+}
+
+/* Constitutional Invariant Telemetry Bar */
+.invariant-ribbon {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+  background: rgba(11, 13, 20, 0.85);
+  border: 1px solid var(--color-border);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+}
+
+@media (min-width: 768px) {
+  .invariant-ribbon {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.invariant-cell {
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
+  border-left: 2px solid var(--color-gold);
+}
+
+.invariant-cell.mint { border-left-color: var(--color-mint); }
+.invariant-cell.sakura { border-left-color: var(--color-sakura); }
+.invariant-cell.violet { border-left-color: var(--color-violet); }
+
+.invariant-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-dim);
+}
+
+.invariant-val {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-top: 0.15rem;
+}
+
+/* Killer Interaction Section: The Hold & Six Pillars */
+.hold-sanctuary-card {
+  position: relative;
+  border-radius: var(--radius-xl);
+  background: linear-gradient(165deg, rgba(20, 18, 28, 0.94) 0%, rgba(9, 11, 18, 0.98) 100%);
+  border: 1px solid rgba(247, 168, 184, 0.32);
+  padding: var(--space-6);
+  margin-bottom: var(--space-12);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.55);
+  overflow: hidden;
+}
+
+.hold-sanctuary-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-sakura), var(--color-gold), var(--color-mint), var(--color-violet));
+}
+
+.hold-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-8);
+  align-items: center;
+}
+
+@media (min-width: 900px) {
+  .hold-grid {
+    grid-template-columns: 1.25fr 0.95fr;
+  }
+}
+
+.pillars-wheel {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+}
+
+@media (min-width: 600px) {
+  .pillars-wheel {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.pillar-node {
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.025);
+  border: 1px solid var(--color-border-subtle);
+  cursor: pointer;
+  text-align: left;
+  transition: all var(--duration-normal) var(--ease-out);
+}
+
+.pillar-node:hover,
+.pillar-node.active {
+  border-color: var(--color-sakura);
+  background: rgba(247, 168, 184, 0.09);
+  transform: translateY(-2px);
+}
+
+.pillar-title {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--color-sakura);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pillar-pair {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  margin-top: 0.25rem;
+  line-height: 1.45;
+}
+
+/* The Signature Press-and-Hold Seal */
+.hold-seal-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: var(--space-6);
+  border-radius: var(--radius-lg);
+  background: rgba(5, 6, 10, 0.72);
+  border: 1px solid rgba(232, 176, 92, 0.24);
+}
+
+.hold-seal-button {
+  position: relative;
+  width: 156px;
+  height: 156px;
+  border-radius: 50%;
+  border: none;
+  background: radial-gradient(circle at 50% 42%, rgba(247, 168, 184, 0.16), rgba(11, 13, 20, 0.96));
+  color: var(--color-text);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  transition: transform var(--duration-normal) var(--ease-spring),
+              box-shadow var(--duration-normal) var(--ease-out);
+  box-shadow: 0 0 32px rgba(247, 168, 184, 0.12);
+}
+
+.hold-seal-button:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 42px rgba(247, 168, 184, 0.24);
+}
+
+.hold-seal-button.is-holding {
+  transform: scale(0.96);
+  box-shadow: 0 0 56px rgba(98, 230, 201, 0.38);
+}
+
+.hold-seal-button.is-witnessed {
+  box-shadow: 0 0 60px rgba(232, 176, 92, 0.45);
+}
+
+.hold-ring-svg {
+  position: absolute;
+  inset: -6px;
+  width: 168px;
+  height: 168px;
+  transform: rotate(-90deg);
+  pointer-events: none;
+}
+
+.hold-ring-bg {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.08);
+  stroke-width: 3.5;
+}
+
+.hold-ring-progress {
+  fill: none;
+  stroke: url(#kintsugi-grad);
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-dasharray: 490;
+  stroke-dashoffset: 490;
+  transition: stroke-dashoffset 60ms linear;
+}
+
+.hold-seal-heart {
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--color-sakura);
+  letter-spacing: 0.06em;
+}
+
+.hold-seal-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-gold);
+  margin-top: 0.35rem;
+}
+
+.hold-seal-sub {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  color: var(--color-text-muted);
+  margin-top: 0.2rem;
+}
+
+/* Section Headers */
+.section-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.section-kicker {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--color-gold);
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.45rem, 2.6vw, 2rem);
+  font-weight: 800;
+  color: var(--color-text);
+  margin-top: 0.2rem;
+}
+
+/* The 5 Print-Canon Books Grid */
+.canon-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-4);
+  margin-bottom: var(--space-12);
+}
+
+@media (min-width: 768px) {
+  .canon-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1080px) {
+  .canon-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.book-spine-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface-raised);
+  border: 1px solid var(--color-border-subtle);
+  transition: transform var(--duration-normal) var(--ease-out),
+              border-color var(--duration-normal) var(--ease-out),
+              box-shadow var(--duration-normal) var(--ease-out);
+  min-height: 295px;
+}
+
+.book-spine-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--color-gold);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.5);
+}
+
+.book-spine-card.is-open {
+  border-color: var(--color-mint);
+  background: linear-gradient(180deg, rgba(98, 230, 201, 0.08) 0%, rgba(11, 13, 20, 0.96) 100%);
+}
+
+.book-slot-num {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--color-gold);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nand-gate-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-full);
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 700;
+  border: 1px solid rgba(232, 176, 92, 0.38);
+  color: var(--color-gold);
+  background: rgba(232, 176, 92, 0.08);
+}
+
+.nand-gate-pill.unlocked {
+  border-color: rgba(98, 230, 201, 0.5);
+  color: var(--color-mint);
+  background: rgba(98, 230, 201, 0.12);
+}
+
+.book-title {
+  font-family: var(--font-display);
+  font-size: 1.18rem;
+  font-weight: 800;
+  color: var(--color-text);
+  margin: var(--space-3) 0 var(--space-2);
+  line-height: 1.3;
+}
+
+.book-origin {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--color-violet);
+  margin-bottom: var(--space-2);
+}
+
+.book-summary {
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  line-height: 1.55;
+  flex-grow: 1;
+}
+
+.book-actions {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border-subtle);
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.btn-hold-book {
+  width: 100%;
+  min-height: 42px;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(232, 176, 92, 0.4);
+  background: rgba(232, 176, 92, 0.09);
+  color: var(--color-gold);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: all var(--duration-fast) var(--ease-out);
+}
+
+.btn-hold-book:hover {
+  background: rgba(232, 176, 92, 0.18);
+}
+
+.btn-hold-book.unlocked {
+  border-color: rgba(98, 230, 201, 0.5);
+  background: rgba(98, 230, 201, 0.12);
+  color: var(--color-mint);
+}
+
+/* Ultralove Editions — Folded Sheets Beside the Shelf */
+.editions-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+  margin-bottom: var(--space-12);
+}
+
+@media (min-width: 820px) {
+  .editions-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.edition-sheet {
+  padding: var(--space-6);
+  border-radius: var(--radius-lg);
+  background: linear-gradient(145deg, rgba(247, 168, 184, 0.06) 0%, rgba(11, 13, 20, 0.95) 100%);
+  border: 1px solid rgba(247, 168, 184, 0.28);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--space-4);
+}
+
+/* Inline Sanctuary Reader (Print-Minimal Sheet) */
+.reader-sanctuary {
+  margin-bottom: var(--space-12);
+  border-radius: var(--radius-xl);
+  background: var(--color-surface-paper);
+  border: 1px solid var(--color-gold);
+  padding: var(--space-6);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.65);
+}
+
+@media (min-width: 768px) {
+  .reader-sanctuary {
+    padding: var(--space-8) var(--space-12);
+  }
+}
+
+.reader-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding-bottom: var(--space-4);
+  margin-bottom: var(--space-6);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.reader-body {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.82;
+  color: var(--color-text);
+  max-width: 68ch;
+  margin: 0 auto;
+  white-space: pre-wrap;
+}
+
+.reader-skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 68ch;
+  margin: 0 auto;
+}
+
+.skeleton-line {
+  height: 16px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(90deg, rgba(255,255,255,0.04) 25%, rgba(232,176,92,0.12) 50%, rgba(255,255,255,0.04) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* Source Garden Matrix (standardgalactic ~= research ~= future) */
+.garden-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-3);
+  margin-bottom: var(--space-12);
+}
+
+@media (min-width: 680px) {
+  .garden-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .garden-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.garden-room {
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--color-surface-raised);
+  border: 1px solid var(--color-border-subtle);
+  text-decoration: none;
+  color: var(--color-text);
+  transition: all var(--duration-fast) var(--ease-out);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--space-2);
+}
+
+.garden-room:hover {
+  border-color: var(--color-violet);
+  background: rgba(180, 139, 255, 0.07);
+  transform: translateY(-2px);
+}
+
+/* Toast Notification */
+.sanctuary-toast {
+  position: fixed;
+  bottom: var(--space-6);
+  right: var(--space-6);
+  z-index: 90;
+  max-width: 380px;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  background: rgba(11, 13, 20, 0.96);
+  border: 1px solid var(--color-mint);
+  color: var(--color-text);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.6);
+  transform: translateY(16px);
+  opacity: 0;
+  pointer-events: none;
+  transition: all var(--duration-normal) var(--ease-out);
+}
+
+.sanctuary-toast.visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Print-Minimal Sheet Mode */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  .sanctuary-header,
+  .hold-sanctuary-card,
+  .canon-grid,
+  .editions-grid,
+  .garden-grid,
+  .reader-toolbar,
+  .sanctuary-footer {
+    display: none !important;
+  }
+  .reader-sanctuary {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+  .reader-body {
+    color: #000000 !important;
+    font-size: 11pt !important;
+    line-height: 1.65 !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

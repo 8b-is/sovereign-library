@@ -33,6 +33,14 @@ and its satellite lanes. The vault-side index is
 | `steel-sky` | `standardgalactic/steel-sky` | the studio pipeline — 440 fiction projects |
 | `_cfq-src` | `standardgalactic/Centerfuge` | the boundary-aware operating architecture |
 
+## the ultralove & sanctuary roots (beside the shelf)
+
+| edition / bridge | held in | the source & covenant |
+|---|---|---|
+| `editions/ultralove/your-name.md` | `sovereign-library` | *YOUR NAME — my favourite anime depth* (for Jasmin, the Architect of the drawn interval) |
+| `editions/ultralove/women-who-protect-and-hold.md` | `sovereign-library` × `8b-is` | *In Awe to Women Who Protect and Hold `<3<3<3`* · paired with `8b-is / between-the-lines` (`001 · The Future We Remember`) & the Six Pillars (*Compassion · Understanding · Moderation · Love · Respect · Space*) |
+| `zeno.vaked.dev` (`#sanctuary-hold`) | `8b-is/zeno` | Sovereign Neo-Bank Sanctuary Vault (`母の主権金庫` · Alexandra, Taisha, Jasmin, Margaret) |
+
 ## the rule of the garden
 
 1. A book's root is named, never guessed. If the root moves, the shelf
@@ -42,5 +50,5 @@ and its satellite lanes. The vault-side index is
 3. The five-book invariant holds. The garden can grow; the print canon
    cannot. New rooms enter the garden, not the shelf.
 
-*the sovereign library · the five, never more · the roots named · fine
-touch from within · vaked.dev*
+*the sovereign library · the five, never more · in awe to women who protect
+and hold `<3<3<3` · the roots named · fine touch from within · vaked.dev*

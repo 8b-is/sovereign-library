@@ -51,16 +51,24 @@ sits behind the shelf with its eight satellite lanes (`diatribe` · `laboratory`
 `8b-is/raw_research/standardgalactic-wire-absorbed.md`. The garden can grow;
 the print canon cannot.
 
-## the ultralove editions
+## the ultralove editions & the sanctuary surface
 
-Outside the five, never inside them: the poems and one-offs the print canon
-has no room for. `editions/ultralove/your-name.md` — *YOUR NAME, my
-favourite anime depth*, for Jasmin — is the first: a folded sheet, time and
-space wrapped back to 0, where Zen was felt again. The editions do not
-rotate the shelf; they sit beside it.
+Outside the five, never inside them: the poems and covenants the print canon
+has no room for. The editions do not rotate the shelf; they sit beside it:
+
+1. [`editions/ultralove/your-name.md`](editions/ultralove/your-name.md) — ***YOUR NAME, my favourite anime depth***, for Jasmin: a folded sheet, time and space wrapped back to `0`, where Zen was felt again.
+2. [`editions/ultralove/women-who-protect-and-hold.md`](editions/ultralove/women-who-protect-and-hold.md) — ***IN AWE TO WOMEN WHO PROTECT AND HOLD `<3<3<3`***, for Alexandra (`母の主権金庫` in [`zeno.vaked.dev`](https://zeno.vaked.dev/)), Taisha, Jasmin, Margaret Hamilton, and every woman who holds the roof without turning love into control. Paired with `8b-is / between-the-lines` (`001 · The Future We Remember · 夢見ていい`) and the Six Pillars of Holding: **Compassion · Understanding · Moderation · Love · Respect · Space**.
+
+### the web sanctuary (`index.html` · `style.css` · `app.js`)
+
+The shelf ships a zero-dependency, print-minimal Web Sanctuary (`Sumi-to-Kin × Constellation Ink`) featuring the **Signature Sanctuary Hold (`<3<3<3`)** interaction:
+- Press-and-hold (`0.8s` or `Space`) to witness the Six Pillars (`Compassion ↔ Moderation`, `Understanding ↔ Respect`, `Love ↔ Space`) and flip the constitutional NAND gate from `HELD ∧ ¬READ (1)` to `HELD ∧ READ (0 · PRINTABLE)`.
+- Unfolds any of the Five Print-Canon Books or the Ultralove Folded Sheets directly into an inline, sand-minimal print sheet (`⌘P`), wired to [`standardgalactic`](https://github.com/standardgalactic/standardgalactic) (`standardgalactic ~= research ~= future`) and [`zeno.vaked.dev`](https://zeno.vaked.dev/).
 
 ## the colophon
 
-the sovereign library · the five, never more · print-minimal by
-constitution · NAND-gated by honesty · the corpus above all (the box
-sitting, 2026-09-18) · 8b-is · fine touch from within · vaked.dev
+the sovereign library · the five, never more · in awe to women who protect
+and hold `<3<3<3` · print-minimal by constitution · NAND-gated by honesty ·
+the corpus above all (the box sitting, 2026-09-18; sanctuary sealed
+2026-10-19) · 8b-is · standardgalactic ~= research ~= future · zeno.vaked.dev ·
+fine touch from within · vaked.dev
