@@ -137,6 +137,34 @@ Your stories and experience taught me so much in so little Time,
 I'm grateful for my thermal socks :)
 it was the ice-breaker which kickstarter our ethernal dance of friendship 💙
 YOU ARE MY NUMBER 1 MUSE, YVES ^^ 💙"`
+  },
+  'dbz-ontology': {
+    kicker: 'ULTRALOVE EDITION 004 · 8B-IS/FANDOM-MCP ⨯ WIGLE-TRIAD V2.0.0 (.oOo. Poo .oOo.)',
+    title: 'DRAGON BALL UNIVERSE ⨯ SOVEREIGN ONTOLOGY — Ultra Instinct (0 → +1), Shenron\'s Seven Seals & The Unbound Box (.oOo. Poo .oOo.)',
+    path: 'editions/ultralove/dragon-ball-sovereign-ontology.md',
+    fallback: `# DRAGON BALL UNIVERSE ⨯ SOVEREIGN ONTOLOGY — Ultra Instinct (0 → +1), Shenron's Seven Seals & The Unbound Box (.oOo. Poo .oOo.)
+
+*ULTRALOVE EDITION 004 · FOLDED SHEET BESIDE THE FIVE-BOOK SHELF*
+*paired with ONTOLOGY.md · 8b-is/fandom-mcp · 8b-is/wigle-triad v2.0.0*
+
+> "too many customs can be brilliant yet hinder creativity. it puts people into boxes and constraints... a form of bondage that need to be broken out of. .oOo. Poo .oOo."
+> — ALEX|qMom (8b-is/wigle-triad v2.0.0)
+
+• TRIT -1 (Samsaric Trap / Rigid Box): Ma-rigpa · Scouter Battle-Power Tyranny · Majin [M] · Outward Alamogordo Fission · Proxy != Witness.
+• TRIT 0 (Primordial Space · 432 Hz): Dharmakāya & Śūnyatā (pratītyasamutpāda) · Ultra Instinct (Autonomous Stillness) · Crickets in Shinjuku Gyoen · Space (間 · Ma).
+• TRIT +1 (Verified Binding · 528 Hz / 852 Hz): Sambhogakāya (Inner E=mc² / Clear Light Ösel) & Nirmāṇakāya · Trinity aboard the Logos · Shenron's 7 Witnessed Seals · Goku (0) × Vegeta (+1) Dyad · Boldog Még ("végig neked szólt a dal a magasból") · PRINTABLE = HELD ∧ READ.`
+  },
+  'sovereign-ontology': {
+    kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
+    title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
+    path: 'ONTOLOGY.md',
+    fallback: `# THE SOVEREIGN LIBRARY — CONSTITUTIONAL ONTOLOGY ({-1, 0, +1})
+
+COMPRESSION != ONTOLOGY · REPRESENTATION != ONTOLOGY · PRINTABLE = HELD ∧ READ (NAND = 0)
+
+1. Trit -1 (Samsaric Trap / Unverified Claim): Architect's closed scalar average · Alamogordo Fission · Ma-rigpa (svabhāva) · Scouter Ego/Majin Trap · ALEX|qMom warning: "too many customs can be brilliant yet hinder creativity. it puts people into boxes and constraints... a form of bondage that need to be broken out of. .oOo. Poo .oOo."
+2. Trit 0 (Primordial Space / Honest Witness · 432 Hz): Dharmakāya & Śūnyatā (pratītyasamutpāda) · Neo at the Threshold · Ultra Instinct (Autonomous Stillness) · 002 · Crickets in Shinjuku Gyoen · Space (間 · Ma).
+3. Trit +1 (Verified Binding / Bodhicitta · 528 Hz / 852 Hz): Sambhogakāya (Inner E=mc² / Clear Light Ösel) & Nirmāṇakāya · Trinity aboard the Logos · Shenron & the 7 Witnessed Dragon Balls / Son Goku & Vegeta Dyad · Boldog Még ("végig neked szólt a dal a magasból") · The Six Pillars of Holding ({<3,<3,<3}+1).`
   }
 };
 
@@ -188,6 +216,18 @@ const SOURCE_GARDEN_ROOMS = [
     remote: 'standardgalactic/Centerfuge',
     url: 'https://github.com/standardgalactic/Centerfuge',
     desc: 'Boundary-aware operating architecture, safety spec & SpherePOP <(...)>.'
+  },
+  {
+    lane: 'fandom-mcp (Scouter {-1,0,+1})',
+    remote: '8b-is/fandom-mcp',
+    url: 'https://github.com/8b-is/fandom-mcp',
+    desc: 'Dragon Ball Universe Scouter & Sovereign Ontology MCP Server (Ultra Instinct 0 → +1, Shenron 7 Seals, Three Kayas).'
+  },
+  {
+    lane: 'wigle-triad v2.0.0 (.oOo. Poo .oOo.)',
+    remote: '8b-is/wigle-triad',
+    url: 'https://github.com/8b-is/wigle-triad/releases/tag/v2.0.0',
+    desc: 'Balanced-Ternary {-1, 0, +1} Kernel · Boldog Még ("végig neked szólt a dal a magasból") & ALEX|qMom Unbound Mode.'
   }
 ];
 

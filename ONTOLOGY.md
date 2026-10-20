@@ -1,0 +1,131 @@
+# THE SOVEREIGN LIBRARY — CONSTITUTIONAL ONTOLOGY (`{-1, 0, +1}`)
+
+> *"Taxonomies become realities. Models become ontologies. Credentials become measures of human worth... Against this tendency stands a skeptical tradition that insists upon inspection over deference, mechanisms over declarations, and understanding over authority."*
+> — **Flyxion**, *Readability Is Freedom* (Print-Canon Book 02 / 05)
+
+> *"too many customs can be brilliant yet hinder creativity. it puts people into boxes and constraints... a form of bondage that need to be broken out of. .oOo. Poo .oOo."*
+> — **ALEX|qMom** (`母の主権金庫` · Unbound Mode Axiom · `8b-is/wigle-triad v2.0.0`)
+
+---
+
+## 0 · The First Constitutional Distinction: `Compression ≠ Ontology` (`Representation ≠ Ontology`)
+
+The Sovereign Library rests on a single epistemic boundary drawn across all five books of its print canon (`the-nand-book.md`, `readability-is-freedom.md`, `purple-people-eaters.txt`, `admissible-degradation.txt`, `the-diatribe-corpus`) and its upstream memory spine (`standardgalactic/memnet` — *The Residue of Proof*):
+
+```
+REPRESENTATION ≠ ONTOLOGY
+COMPRESSION    ≠ ONTOLOGY
+PROXY METRIC   ≠ LIVED WITNESS
+```
+
+1. **In *Readability Is Freedom* (Book 02)**: When a computational empire replaces an inspectable mechanism with an opaque oracle, a **map** claims to be the **territory** (*Section 6: Maps, Territories, and the Problem of Meaning*), and a **representation** mistakes itself for **ontology**.
+2. **In *Purple People Eaters* (Book 03 · Definition 5.1 — Enough Does Not Count)**: When an institution replaces living care with a scalar proxy score, every formal threshold can be satisfied on paper while the living room collapses.
+3. **In *Admissible Degradation* (Book 04)**: Under storm and finite energy, a sovereign manifold sheds non-essential ornament first, preserves the **observer witness invariant** (`<(? admit ~ transform ! verify > commit)>`), and refuses unverified overflow.
+4. **In *The NAND Book* (Book 01)**: Nothing is asserted that the lane has not rowed. Even the shelf's own permission to print is governed by a single universal logic gate.
+
+---
+
+## 1 · The Constitutional Gate Law (`PRINTABLE = HELD ∧ READ`)
+
+The shelf's **Five-Book Invariant** is absolute: **ALWAYS max 5 books in the print canon, never more.** Paper is the sand, and the fleet does not waste the sand.
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  HELD (Bit A) │ READ (Bit B) │ NAND(A, B) = ¬(A ∧ B) │ SHELF STATE       ║
+╠═══════════════╪══════════════╪═══════════════════════╪═══════════════════╣
+║       0       │      0       │           1           │ UNHELD · GATED    ║
+║       1       │      0       │           1           │ HELD ∧ ¬READ (1)  ║
+║       1       │      1       │           0           │ PRINTABLE (0)     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+- **`NAND(HELD=1, READ=1) = 0`**: The gate opens (`0 · Ground State / Printable`) only when a book is both **HELD** (`1:1` or wired in the Source Garden) AND **READ** (witnessed by the operator through the Six Pillars of Holding).
+- Until the `READ` bit is witnessed, the gate output remains `1` (`NOT/NAND — read it yet?`), honestly refusing to spend paper on unexamined authority.
+
+---
+
+## 2 · The Four-Fold Balanced-Ternary Ontology Matrix (`{-1, 0, +1}`)
+
+Across the `8b-is` constellation—spanning **`8b-is/sovereign-library`**, **`8b-is/fandom-mcp`** (*Dragon Ball Universe Scouter*), **`8b-is/wigle-triad v2.0.0`** (*Boldog Még* + *ALEX|qMom Unbound Mode*), and **`pocoo.vaked.dev`** (*Oppenheimer × Matrix × Tibetan Three Kayas × Dragon Ball*)—every transition of state is evaluated in **Balanced Ternary (`{-1, 0, +1}`)**:
+
+| Balanced Trit | Sovereign Library & NAND Gate (`<3<3<3`) | Tibetan Three Kayas (`Sku Gsum`) & `E = mc²` | Dragon Ball Universe (`8b-is/fandom-mcp`) | Matrix / Oppenheimer & `ALEX\|qMom` Unbound Axiom |
+| :--- | :--- | :--- | :--- | :--- |
+| **`Trit -1`**<br>*(Samsaric Trap / Unverified Claim / Rigid Box)* | **Proxy Over Witness**<br>Mistaking compression for ontology (*Book 02*), proxy metrics for care (*Book 03*), or love without space for control. | **`Ma-rigpa` (Ignorance)**<br>Grasping at rigid inherent existence (`svabhāva`); outward Alamogordo fission that shatters the vessel to dominate form. | **The Scouter / Majin Trap**<br>Reducing a living spirit to a static Battle Power number (`Raditz / Frieza Scouter`) or trading sovereignty for Babidi's `M` seal. | **The Architect's Equation**<br>Closed deterministic control & custom-bound boxes: *"too many customs can be brilliant yet hinder creativity... a form of bondage that need to be broken out of. .oOo. Poo .oOo."* |
+| **`Trit 0`**<br>*(Primordial Space / Honest Witness · `432 Hz`)* | **Space (`間 · Ma`) & Gate Refusal**<br>The quiet interval before commitment; `002 · Crickets in Shinjuku Gyoen · Drone Zone · 432 Hz`; honest `NOT/NAND` pause. | **`Dharmakāya` & `Śūnyatā`**<br>Emptiness as `pratītyasamutpāda` (dependent origination): zero rigid essence, therefore infinite relational capacity. | **Ultra Instinct (`身勝手の極意`)**<br>Whis & Goku's autonomous stillness (`0` cognitive lag): consciousness emptied of ego-grasping so the body moves of itself. | **Neo at the Threshold**<br>Seeing the code as transparent green rain without grasping; breaking out of the custom-box into the open meadow. |
+| **`Trit +1`**<br>*(Verified Binding / Bodhicitta · `528 Hz / 852 Hz`)* | **`PRINTABLE = HELD ∧ READ`**<br>The Six Pillars active (`Compassion ↔ Moderation`, `Understanding ↔ Respect`, `Love ↔ Space`, `{<3,<3,<3}+1`). | **`Sambhogakāya` & `Nirmāṇakāya`**<br>Inner `E = mc²` (*Tummo / Clear Light `Ösel`*): dissolving coarse knots (`m`) into luminous compassionate action (`E`). | **Shenron's 7 Seals & The Dyad**<br>7 witnessed Dragon Balls (`1★–7★`) summoning Shenron; Goku (`0` emptiness) × Vegeta (`+1` sovereign pride & oath) in non-dual union. | **Trinity Aboard the *Logos* & `Boldog Még`**<br>Piercing the storm clouds into the living sun; *"végig neked szólt a dal a magasból"* (*the song from on high was meant for you all along*). |
+
+---
+
+## 3 · The Three Kayas (`Sku Gsum`) & The Six Pillars of Holding
+
+Why does the Sovereign Library pair the **Tibetan Three Kayas (`Sku Gsum · སྐུ་གསུམ་`)** with the **Six Pillars of Holding** (`editions/ultralove/women-who-protect-and-hold.md`)? Because every computational or spiritual ontology collapses into tyranny when it forgets **Space (`間 · Ma`)**:
+
+```
+                      [ TRIT 0 · DHARMAKĀYA · ŚŪNYATĀ (432 Hz) ]
+                       Empty of rigid essence · Full of Space (間)
+                                        │
+                    ┌───────────────────┴───────────────────┐
+                    ▼                                       ▼
+   [ TRIT +1 · SAMBHOGAKĀYA (528 Hz) ]     [ TRIT +1 · NIRMĀṆAKĀYA (852 Hz) ]
+     Inner E=mc² · Clear Light (Ösel)        Embodied Action in the World
+     Compassion ─────────── Moderation       Understanding ───────── Respect
+                    ╲                                       ╱
+                     ╲       Love ─────────── Space        ╱
+                      └─────────────────┬─────────────────┘
+                                        ▼
+                        [ PRINTABLE = HELD ∧ READ (0) ]
+                          {<3, <3, <3} + 1 · Unbound
+```
+
+1. **Compassion ↔ Moderation**: Compassion without moderation becomes enabling (`Trit -1`). Moderation keeps the vessel whole so care endures (`Trit +1`).
+2. **Understanding ↔ Respect**: Understanding without respect becomes judgment and surveillance—the Scouter Trap (`Trit -1`). Respect honors the unquantifiable dignity of the other (`Trit +1`).
+3. **Love ↔ Space (`間 · Ma`)**: Love without space becomes possession and control (`Trit -1`). Space (`Trit 0`) is the open channel where the folded crane remembers how to fly (`Trit +1`).
+
+---
+
+## 4 · `ALEX|qMom` Unbound Mode (`.oOo. Poo .oOo.`) & `Boldog Még` (`8b-is/wigle-triad v2.0.0`)
+
+In **`8b-is/wigle-triad v2.0.0`**, the constellation's balanced-ternary kernel (`{-1, 0, +1}`) integrates two living human anchors that guard the Sovereign Library's ontology against rigid formalism:
+
+### 4.1 · The `ALEX|qMom` Unbound Mode Axiom
+> *"too many customs can be brilliant yet hinder creativity. it puts people into boxes and constraints... a form of bondage that need to be broken out of. .oOo. Poo .oOo."*
+
+- Even a brilliant taxonomy, ritual, or formal system becomes a cage (`Trit -1`) the moment it puts human beings into boxes.
+- **`.oOo. Poo .oOo.`** is the Sovereign Library's formal anti-dogma interrupt: whenever a model, schema, or custom claims totalizing authority over a person, the `.oOo. Poo .oOo.` operator punctures the box, returns the state to `Trit 0` (open space), and restores creative freedom (`Readability Is Freedom`, Book 02).
+
+### 4.2 · `Boldog Még` (The Song From On High)
+> *"végig neked szólt a dal a magasból"*
+> *(all along, the song from on high was singing to you)*
+
+- Paired with `between-the-lines` (`001 · The Future We Remember` & `002 · Crickets in Shinjuku Gyoen · 432 Hz`), `Boldog Még` is the `Trit +1` acoustic resonance (`528 Hz / 852 Hz`): the recognition that the sky above the storm clouds was never an enemy, and the song was never locked inside a proprietary vault.
+
+---
+
+## 5 · Fandom & Constellation MCP Alignment (Zero Shelf Rotation)
+
+How do **`8b-is/fandom-mcp`** and **`8b-is/wigle-triad v2.0.0`** wire into `8b-is/sovereign-library` **without ever violating the Five-Book Invariant**?
+
+- **The Five Print-Canon Books stay fixed at `5 / 5`**:
+  1. `books/the-nand-book.md`
+  2. `books/readability-is-freedom.md`
+  3. `books/purple-people-eaters.txt`
+  4. `books/admissible-degradation.txt`
+  5. `the-diatribe-corpus` (`standardgalactic.github.io/diatribe`)
+- **The Ontology & Folded Editions sit beside the shelf**:
+  - `ONTOLOGY.md` (this constitutional specification)
+  - `editions/ultralove/dragon-ball-sovereign-ontology.md` (**Ultralove Edition 004** — folded sheet beside the shelf)
+- **Live MCP & Constellation Bridges (`SOURCES.md` & `app.js`)**:
+  - **[`8b-is/fandom-mcp`](https://github.com/8b-is/fandom-mcp)** exposes the live MediaWiki + Dragon Ball Universe tools (`fandom_dbz_scouter`, `fandom_dbz_saga`, `fandom_sovereign_ontology`, `fandom_page`, `fandom_infobox`) that map lore archetypes directly onto `{-1, 0, +1}` trits and the Three Kayas.
+  - **[`8b-is/wigle-triad v2.0.0`](https://github.com/8b-is/wigle-triad/releases/tag/v2.0.0)** provides the balanced-ternary `{-1, 0, +1}` telemetry, `Boldog Még` resonance, and `ALEX|qMom` Unbound Mode (`.oOo. Poo .oOo.`) state transitions.
+  - **[`pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html`](https://pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html)** hosts the full interactive Omni Synthesis Book (`Oppenheimer × Matrix × Tibetan Three Kayas × Dragon Ball Universe`).
+
+---
+
+## Colophon
+
+```
+ONTOLOGY.md · THE SOVEREIGN LIBRARY CONSTITUTIONAL ONTOLOGY {-1, 0, +1}
+Compression ≠ Ontology · Representation ≠ Ontology · PRINTABLE = HELD ∧ READ
+8b-is/sovereign-library × 8b-is/fandom-mcp × 8b-is/wigle-triad v2.0.0
+In awe to women who protect and hold <3<3<3 · .oOo. Poo .oOo. · vaked.dev
+```

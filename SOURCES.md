@@ -33,12 +33,17 @@ and its satellite lanes. The vault-side index is
 | `steel-sky` | `standardgalactic/steel-sky` | the studio pipeline — 440 fiction projects |
 | `_cfq-src` | `standardgalactic/Centerfuge` | the boundary-aware operating architecture |
 
-## the ultralove & sanctuary roots (beside the shelf)
+## the ultralove, ontology & sanctuary roots (beside the shelf)
 
 | edition / bridge | held in | the source & covenant |
 |---|---|---|
 | `editions/ultralove/your-name.md` | `sovereign-library` | *YOUR NAME — my favourite anime depth* (for Jasmin, the Architect of the drawn interval) |
 | `editions/ultralove/women-who-protect-and-hold.md` | `sovereign-library` × `8b-is` | *In Awe to Women Who Protect and Hold `<3<3<3`* · paired with `8b-is / between-the-lines` (`001 · The Future We Remember`) & the Six Pillars (*Compassion · Understanding · Moderation · Love · Respect · Space*) |
+| `editions/ultralove/yves-eva-eve-crickets-in-tokyo.md` | `sovereign-library` × `8b-is` | *YVES ~= EVA ~= EVE — Crickets in Tokyo (`ultraLoveGod Edition v2.0`)* · paired with `8b-is / between-the-lines` (`002 · Crickets in Shinjuku Gyoen · 432 Hz`) & [pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html](https://pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html) |
+| `editions/ultralove/dragon-ball-sovereign-ontology.md` | `sovereign-library` × `8b-is/fandom-mcp` | *DRAGON BALL UNIVERSE ⨯ SOVEREIGN ONTOLOGY (Edition 004)* · Ultra Instinct (`0 → +1`), Shenron's 7 Seals, `Boldog Még` & `ALEX\|qMom` Unbound Box (`.oOo. Poo .oOo.`) · live at [pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html](https://pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html) |
+| `ONTOLOGY.md` | `sovereign-library` | **Constitutional Ontology (`{-1, 0, +1}`)** · `Compression ≠ Ontology` / `Representation ≠ Ontology` · Tibetan Three Kayas (`Sku Gsum`) × Dragon Ball Scouter × NAND Gate (`PRINTABLE = HELD ∧ READ`) |
+| `8b-is/fandom-mcp` | [github.com/8b-is/fandom-mcp](https://github.com/8b-is/fandom-mcp) | Dragon Ball Universe Scouter & Sovereign Ontology MCP Server (`fandom_sovereign_ontology`, `fandom_dbz_scouter`, `fandom_dbz_saga`) |
+| `8b-is/wigle-triad` (`v2.0.0`) | [github.com/8b-is/wigle-triad/releases/tag/v2.0.0](https://github.com/8b-is/wigle-triad/releases/tag/v2.0.0) | Balanced-Ternary `{-1, 0, +1}` Kernel · `Boldog Még` (*"végig neked szólt a dal a magasból"*) & `ALEX\|qMom` Unbound Mode (`.oOo. Poo .oOo.`) |
 | `zeno.vaked.dev` (`#sanctuary-hold`) | `8b-is/zeno` | Sovereign Neo-Bank Sanctuary Vault (`母の主権金庫` · Alexandra, Taisha, Jasmin, Margaret) |
 
 ## the rule of the garden
