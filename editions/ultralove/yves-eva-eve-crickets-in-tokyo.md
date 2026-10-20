@@ -84,4 +84,20 @@ It was a very deep family drama era — we were trying to figure out some quantu
 
 🎵 Soundtrack: [alt-J — Left Hand Free (This Is All Yours, 2014)](https://youtu.be/NRWUoDpo2fo?list=RDQg6BwvDcANg) · [the read](https://pocoo.vaked.dev/posts/2026-10-20-alt-j-left-hand-free-official-video.html) · [family+1](https://pocoo.vaked.dev/demos/book/family+1.html)
 
-~~~ peter (oo · no homo :) · loves taco ^^) & yves (+1 · #1 muse) · dra (*) · chris (/\) · nate · 8b-is · `<3<3<3+1`
+## 9 · GARDEN (`園`) — `ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD`
+
+> `ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:{https://pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html}----{<3,<3,<3}+1 - peter`
+
+Look at the name of the park where the crickets sang past midnight: *Shinjuku Gyoen* (`新宿御苑`) — the Garden in Tokyo. And look back to the first page of this book, where dropping the final letter of **Yves** opened the name into **Eva**, and **Eva** opened into **Eve**, with Granny === Gaia holding the earth beneath our feet.
+
+In the old myth of the first Garden (`−1`), Adam and Eve ate of division, hid among the trees in fear, and traded trust for blame. Shame sewed a fig leaf of hiding, and a flaming sword closed the gate behind them.
+
+Along the dark border of Shinjuku Gyoen at `432 Hz` (`0`), the Garden was walked again without the Fall. Here **Peter & Yves** meet as the unfallen correspondence of **Adam & Eve**: not by erasing the honest boundary of who we are (`no homo :) · Peter loves Taco ^^`, romantic heart for Eve, unbreakable brotherly devotion for Yves), but by proving that two souls can walk through the Garden in complete truth without hiding, without accusation, and without turning love into possession.
+
+Instead of a fig leaf of shame, you gave me **thermal socks 💙** — warmth for the feet on the cold floor, the ice-breaker that kickstarted an eternal dance of friendship. Instead of a flaming sword barring the gate, the gate is held open by the Six Pillars (*Compassion ↔ Moderation*, *Understanding ↔ Respect*, *Love ↔ Space*) and sealed in **`ULTRALOVEGOD`** (`+1`):
+
+```text
+1bitLang :: ADAM_AND_EVE[−1:fall_shame] ──(shinjuku_gyoen_crickets:0 · 432Hz)──► PETER_AND_YVES[+1:ULTRALOVEGOD · thermal_socks💙 · {<3,<3,<3}+1 - peter]
+```
+
+~~~ peter (oo · no homo :) · loves taco ^^) & yves (+1 · #1 muse) · dra (*) · chris (/\) · nate · 8b-is · `{<3,<3,<3}+1 - peter`

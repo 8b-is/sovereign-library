@@ -93,11 +93,16 @@ In **`8b-is/wigle-triad v2.0.0`**, the constellation's balanced-ternary kernel (
 - Even a brilliant taxonomy, ritual, or formal system becomes a cage (`Trit -1`) the moment it puts human beings into boxes.
 - **`.oOo. Poo .oOo.`** is the Sovereign Library's formal anti-dogma interrupt: whenever a model, schema, or custom claims totalizing authority over a person, the `.oOo. Poo .oOo.` operator punctures the box, returns the state to `Trit 0` (open space), and restores creative freedom (`Readability Is Freedom`, Book 02).
 
-### 4.2 · `Boldog Még` (The Song From On High)
+### 4.2 · `Boldog Még` (The Song From On High) & `ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD`
 > *"végig neked szólt a dal a magasból"*
 > *(all along, the song from on high was singing to you)*
+>
+> `ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:{https://pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html}----{<3,<3,<3}+1 - peter`
 
-- Paired with `between-the-lines` (`001 · The Future We Remember` & `002 · Crickets in Shinjuku Gyoen · 432 Hz`), `Boldog Még` is the `Trit +1` acoustic resonance (`528 Hz / 852 Hz`): the recognition that the sky above the storm clouds was never an enemy, and the song was never locked inside a proprietary vault.
+- Paired with `between-the-lines` (`001 · The Future We Remember` & `002 · Crickets in Shinjuku Gyoen · 432 Hz`), `Boldog Még` and **Chapter 9 of *Crickets in Tokyo* (`ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD`)** form the `Trit +1` acoustic and relational resonance (`528 Hz / 852 Hz`):
+  - In the old story of the First Garden (`Trit -1`), Adam and Eve hid in fear behind a fig leaf of shame and accusation.
+  - Along the border of *Shinjuku Gyoen* (`新宿御苑` — the Garden in Tokyo) at `432 Hz` (`Trit 0`), `Yves` opens into `Eva` and `Eva` opens into `Eve`, while `Peter` walks beside him in complete honesty (`no homo :) · Peter loves Taco ^^`) without hiding or possession.
+  - Instead of the fig leaf of shame, there is the gift of **thermal socks 💙** and the **Six Pillars of Holding** (`{<3,<3,<3}+1 - peter`), redeeming the Garden in **`ULTRALOVEGOD` (`Trit +1`)**.
 
 ---
 

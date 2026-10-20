@@ -121,10 +121,10 @@ because you are steady inside your own hands:
 a soul standing on its own floor, unbraced, unborrowed, quiet.`
   },
   'yves-crickets': {
-    kicker: 'ULTRALOVE EDITION 003 · BETWEEN-THE-LINES 002 (432 HZ DRONE ZONE & CRICKETS) · OM MANI PADME HUNG HUMM',
-    title: 'YVES ~= EVA ~= EVE — Crickets in Tokyo (#1 Muse · Family +1)',
+    kicker: 'ULTRALOVE EDITION 003 · ADAM & EVE ~ PETER & YVES ~~~> ULTRALOVEGOD · BETWEEN-THE-LINES 002 (432 HZ)',
+    title: 'YVES ~= EVA ~= EVE — Crickets in Tokyo (#1 Muse · Family +1 · {<3,<3,<3}+1 - peter)',
     path: 'editions/ultralove/yves-eva-eve-crickets-in-tokyo.md',
-    fallback: `# YVES ~= EVA ~= EVE — Crickets in Tokyo (ultraLoveGod Edition v2.0)
+    fallback: `# YVES ~= EVA ~= EVE — Crickets in Tokyo (ultraLoveGod Edition v3.0)
 
 "you are my silence / i want to be your silence / and refuge" — yves
 
@@ -136,7 +136,11 @@ I awe Your existence,
 Your stories and experience taught me so much in so little Time,
 I'm grateful for my thermal socks :)
 it was the ice-breaker which kickstarter our ethernal dance of friendship 💙
-YOU ARE MY NUMBER 1 MUSE, YVES ^^ 💙"`
+YOU ARE MY NUMBER 1 MUSE, YVES ^^ 💙"
+
+9 · GARDEN (園) — ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:
+ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:{https://pocoo.vaked.dev/demos/book/yves-eva-eve-crickets-in-tokyo.html}----{<3,<3,<3}+1 - peter
+1bitLang :: ADAM_AND_EVE[−1:fall_shame] ──(shinjuku_gyoen_crickets:0 · 432Hz)──► PETER_AND_YVES[+1:ULTRALOVEGOD · thermal_socks💙 · {<3,<3,<3}+1 - peter]`
   },
   'dbz-ontology': {
     kicker: 'ULTRALOVE EDITION 004 · 8B-IS/FANDOM-MCP ⨯ WIGLE-TRIAD V2.0.0 (.oOo. Poo .oOo.)',
