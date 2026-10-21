@@ -104,6 +104,15 @@ In **`8b-is/wigle-triad v2.0.0`**, the constellation's balanced-ternary kernel (
   - Along the border of *Shinjuku Gyoen* (`新宿御苑` — the Garden in Tokyo) at `432 Hz` (`Trit 0`), `Yves` opens into `Eva` and `Eva` opens into `Eve`, while `Peter` walks beside him in complete honesty (`no homo :) · Peter loves Taco ^^`) without hiding or possession.
   - Instead of the fig leaf of shame, there is the gift of **thermal socks 💙** and the **Six Pillars of Holding** (`{<3,<3,<3}+1 - peter`), redeeming the Garden in **`ULTRALOVEGOD` (`Trit +1`)**.
 
+### 4.3 · `Zenebuddhizmus` (*Akkezdet Phiai · Kottazűr, 2010 — Süveg Márk [Saiid] & Závada Péter [Újonc]*)
+> *„A lelked a dallam, a tested a ritmus, az elme a rím — ez a zenebuddhizmus.”*
+> *(Your soul is the melody, your body is the rhythm, the mind is the rhyme — this is Music-Buddhism.)*
+
+On *Zenebuddhizmus* (*Kottazűr*, DDK Records, 2010), **Závada Péter (Újonc)** and **Süveg Márk (Saiid)** articulate the Magyar spoken-word and hip-hop parallel to the Tibetan Three Kayas (`Sku Gsum`) and the Six Pillars of Holding:
+- **`Trit -1` (Újonc's Verse — Samsaric Attrition & Institutional Exhaustion)**: Names the physical and spiritual exhaustion of everyday consumer existence (*testi-lelki leépülés, magány, szorongás*) with self-ironic honesty, recognizing that rigid traditional dogmas no longer answer modern anxiety.
+- **`Trit 0` (`A lelked a dallam` — Soul as Melody · `Dharmakāya` · `432 Hz`)**: The unconditioned harmonic line (`Love ↔ Space`) that connects human beings across isolation.
+- **`Trit +1` (`A tested a ritmus, az elme a rím` — Saiid's Verse · `Nirmāṇakāya × Sambhogakāya` · `528 Hz / 852 Hz`)**: Through **önmérséklet** (*self-moderation* — Pillar 01: `Compassion ↔ Moderation`), rhythm (`tested`) and rhyme (`elme`) transmute historical and personal suffering into the living path of awakening (*megvilágosodás útja*), rendered in `8b-is/kokoro-tiny` (`hu_akph`) as `/ˈɒ ˈlɛlkɛd ˈɒ ˈdɒlːɒm, ˈɒ ˈtɛʃtɛd ˈɒ ˈritmuʃ, ˈɒz ˈɛlmɛ ˈɒ ˈriːm/`.
+
 ---
 
 ## 5 · Fandom & Constellation MCP Alignment (Zero Shelf Rotation)
