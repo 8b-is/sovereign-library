@@ -141,11 +141,12 @@ How do **`8b-is/fandom-mcp`** and **`8b-is/wigle-triad v2.0.0`** wire into `8b-i
   5. `the-diatribe-corpus` (`standardgalactic.github.io/diatribe`)
 - **The Ontology & Folded Editions sit beside the shelf**:
   - `ONTOLOGY.md` (this constitutional specification)
-  - `editions/ultralove/dragon-ball-sovereign-ontology.md` (**Ultralove Edition 004** — folded sheet beside the shelf)
+  - `editions/ultralove/dragon-ball-sovereign-ontology.md` (**Ultralove Edition 004** — Dragon Ball ⨯ Sovereign Ontology folded sheet beside the shelf)
+  - `editions/ultralove/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.md` (**Ultralove Edition 005** — `Szellem (Brett Shaw) +++ Feketecsuklyások +++ Anstetten-család (Megaira)` folded sheet beside the shelf)
 - **Live MCP & Constellation Bridges (`SOURCES.md` & `app.js`)**:
-  - **[`8b-is/fandom-mcp`](https://github.com/8b-is/fandom-mcp)** exposes the live MediaWiki + Dragon Ball Universe tools (`fandom_dbz_scouter`, `fandom_dbz_saga`, `fandom_sovereign_ontology`, `fandom_page`, `fandom_infobox`) that map lore archetypes directly onto `{-1, 0, +1}` trits and the Three Kayas.
+  - **[`8b-is/fandom-mcp`](https://github.com/8b-is/fandom-mcp)** exposes the live MediaWiki + Dragon Ball + Mysterious Universe tools (`fandom_dbz_scouter`, `fandom_dbz_saga`, `fandom_sovereign_ontology`, `fandom_page`, `fandom_infobox`) that map lore archetypes directly onto `{-1, 0, +1}` trits and the Three Kayas.
   - **[`8b-is/wigle-triad v2.0.0`](https://github.com/8b-is/wigle-triad/releases/tag/v2.0.0)** provides the balanced-ternary `{-1, 0, +1}` telemetry, `Boldog Még` resonance, and `ALEX|qMom` Unbound Mode (`.oOo. Poo .oOo.`) state transitions.
-  - **[`pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html`](https://pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html)** hosts the full interactive Omni Synthesis Book (`Oppenheimer × Matrix × Tibetan Three Kayas × Dragon Ball Universe`).
+  - **[`pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html`](https://pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html)** & **[`pocoo.vaked.dev/demos/book/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.html`](https://pocoo.vaked.dev/demos/book/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.html)** host the full interactive Omni Synthesis Books (`5 Languages + 1bitLang + WebAudio Synthesis Decks`).
 
 ---
 

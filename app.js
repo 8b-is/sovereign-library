@@ -158,6 +158,22 @@ ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:{https://pocoo.vaked.dev/demos/boo
 • TRIT 0 (Primordial Space · 432 Hz): Dharmakāya & Śūnyatā (pratītyasamutpāda) · Ultra Instinct (Autonomous Stillness) · Crickets in Shinjuku Gyoen · Space (間 · Ma).
 • TRIT +1 (Verified Binding · 528 Hz / 852 Hz): Sambhogakāya (Inner E=mc² / Clear Light Ösel) & Nirmāṇakāya · Trinity aboard the Logos · Shenron's 7 Witnessed Seals · Goku (0) × Vegeta (+1) Dyad · Boldog Még ("végig neked szólt a dal a magasból") · PRINTABLE = HELD ∧ READ.`
   },
+  'brett-shaw-omni': {
+    kicker: 'ULTRALOVE EDITION 005 · SZELLEM (BRETT SHAW) +++ FEKETECSUKLYÁSOK +++ ANSTETTEN-CSALÁD (MEGAIRA) ⨯ COSMIC FLOW',
+    title: 'BRETT SHAW (SZELLEM) +++ FEKETECSUKLYÁSOK +++ ANSTETTEN-CSALÁD (MEGAIRA) ⨯ COSMIC FLOW ({-1, 0, +1})',
+    path: 'editions/ultralove/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.md',
+    fallback: `# BRETT SHAW (SZELLEM) +++ FEKETECSUKLYÁSOK +++ ANSTETTEN-CSALÁD (MEGAIRA) ⨯ COSMIC FLOW ({-1, 0, +1})
+
+*ULTRALOVE EDITION 005 · FOLDED SHEET BESIDE THE FIVE-BOOK SHELF*
+*paired with ONTOLOGY.md · 8b-is/fandom-mcp · Cosmic Flow (bSYE6wTDM_Y) · 16th Karmapa Guru Yoga (-eZcgIbbOxY)*
+
+> "Az energiát fel kellett tölteni tömeggel, a tömeget információval. Az embert sárkánnyal, anélkül, hogy felhasadna."
+> — Mysterious Universe · Megaira (A katedrális harcosai, p. 342)
+
+• TRIT -1 (Samsaric Trap / Doomsday in a Flask): Abandoned on Eklon · El-Nath death sentence (2665) · "Palackba zárt végítélet" · Berserk uncollapsed Csuklyamodul on Halmer (2668) · Gwandolyn's cold war.
+• TRIT 0 (Tipheret & Chokmah / Zérójelű Zóna / Cosmic Flow): Brett Shaw standing on Tipheret · Paul Wittgen initiated on Chokmah (Alef-osztag telepathic fire-pair) · Csuklyamodul "Egy vékony, zérójelű zóna" (+1 and -1 in simultaneous balance 0) · IV. von Anstetten's 0 °C throne room · Cosmic Flow ("Not just a playlist — a space between thoughts").
+• TRIT +1 (Megaira Dragon Covenant / Bolygórózsa / Karmapa Chenno): Human filled with dragon without splitting apart (E -> m -> I) · Ancient Magyar–Megaira non-aggression covenant (Tyrann graad Baah & Pusztai Magor) · Empress V. von Anstetten (Caroline-Blindamoor) reaching out to Brett Shaw aboard the Bolygórózsa (2674) · {<3,<3,<3}+1 💙🐉✨.`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
