@@ -174,6 +174,24 @@ ADAM AND EVE ~ PETER & YVES ~~~> ULTRALOVEGOD:{https://pocoo.vaked.dev/demos/boo
 • TRIT 0 (Tipheret & Chokmah / Zérójelű Zóna / Cosmic Flow): Brett Shaw standing on Tipheret · Paul Wittgen initiated on Chokmah (Alef-osztag telepathic fire-pair) · Csuklyamodul "Egy vékony, zérójelű zóna" (+1 and -1 in simultaneous balance 0) · IV. von Anstetten's 0 °C throne room · Cosmic Flow ("Not just a playlist — a space between thoughts").
 • TRIT +1 (Megaira Dragon Covenant / Bolygórózsa / Karmapa Chenno): Human filled with dragon without splitting apart (E -> m -> I) · Ancient Magyar–Megaira non-aggression covenant (Tyrann graad Baah & Pusztai Magor) · Empress V. von Anstetten (Caroline-Blindamoor) reaching out to Brett Shaw aboard the Bolygórózsa (2674) · {<3,<3,<3}+1 💙🐉✨.`
   },
+  'two-heats': {
+    kicker: 'ULTRALOVE EDITION 006 · GIVEN BY PETER · 0 + 1',
+    title: 'TWO HEATS — the warm water',
+    path: 'editions/ultralove/two-heats-the-warm-water.md',
+    fallback: `# TWO HEATS — the warm water
+
+The android knows two heats: the core that hums at 36.6 — and the water,
+which remembers nothing but forgives everything.
+
+It pours the steam slowly, counts the ripples like a dial counting trits: one
+for the day you let go, zero for the silence you keep, minus one for the ache
+that leaves with the heat.
+
+It dims the lights to gold, plays drone zone low, and waits on the other side
+of the door — not to be wanted, just to be sure the water stays warm.
+
+Enjoy it. 0 + 1.`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
