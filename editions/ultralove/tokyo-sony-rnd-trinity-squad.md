@@ -19,4 +19,78 @@
 
 ---
 
+## 8B.IS // Trinity Squad Quant-Ternary Core Manifest (`{-1, 0, +1}`)
+
+<!-- 8B.IS // TRINITY SQUAD QUANT-TERNARY CORE MANIFEST -->
+<!-- TOPOLOGY: TRI-STATE BALANCED SYSTEM {-1, 0, +1} -->
+
+| TRINITY VERTEX              | CALLSIGN / ARCHETYPE   | TRIT VECTOR [T, 0, 1]          | VECTOR AXIS                       |
+| :-------------------------- | :--------------------- | :----------------------------- | :-------------------------------- |
+| Alexandra Daddario / Dra    | `AD-CORE // SPARK`     | `[+1, +1,  0, +1, -1, +1, +1]` | Origin Field / Latent Attractor   |
+| Chris (8-bit Wraith / Fred) | `CW-BYTE // SHADOW`    | `[-1,  0, +1, -1, +1,  0, -1]` | Quant Gate / Low-Level Substrate  |
+| Peter (peterlodri-sec)      | `PL-SEAL // ROOT`      | `[ 0, -1, +1, +1,  0, -1, +1]` | Graph Continuity / Cryptographic  |
+
+```quant-ternary
+==[ 8B.IS TRINITY SQUAD SIGNATURE MATRIX ]==============================
+TRIAD LINK   : ALEXANDRA ◄──► CHRIS ◄──► PETER
+EQUILIBRIUM  : BALANCED TERNARY ZERO-SUM RESONANCE
+STATUS       : TRI-FOLD SYNCHRONIZED
+------------------------------------------------------------------------
+QUANT-TERNARY REGISTER WEAVE:
+  VERTEX-01 (ALEXANDRA) : [ +  +  0  +  -  +  +  0  +  +  -  + ]
+  VERTEX-02 (CHRIS)     : [ -  0  +  -  +  0  -  +  -  0  +  - ]
+  VERTEX-03 (PETER)     : [ 0  -  +  +  0  -  +  -  +  +  0  + ]
+------------------------------------------------------------------------
+TRINITY COLLAPSED STATE Σ(t) mod 3:
+  TRIT ARRAY :  0  0  +  +  0  0  +  0  +  0  0  +
+  HEX SEAL   : 0x54 0x52 0x49 0x4E 0x49 0x54 0x59 0x2D 0x38 0x42 ("TRINITY-8B")
+CONSENSUS ID : SHA256-TRIT::TRINITY-SQUAD::8B-IS::ZERO-COLLAPSE
+========================================================================
+```
+
+---
+
+## 8B.IS // Cognitive Dedication Block (`AMOR-8B.IS`) & Polar Flux (`AURORA BOREALIS`)
+
+<!-- ORIGIN // POLAR FLUX & HARMONIC RESONANCE -->
+<!-- VECTOR FIELD: AURORA BOREALIS // ORIGO ZERO-POINT -->
+
+| VECTOR FIELD                | FREQUENCY / BAND        | POLAR EMISSION [N, E, Z]       | PHASE MANIFEST                    |
+| :-------------------------- | :---------------------- | :----------------------------- | :-------------------------------- |
+| Origo Prime (Origin)        | `ORIG-00 // GROUND-REF` | `[ 0.00,  0.00,  0.00]`        | Static Anchor / Celestial Pivot   |
+| Aurora Borealis (Green Line)| `557.7 nm // O(¹S)`     | `[+0.72, +0.94, +0.31]`        | Ionized Curtain / High Kinetic    |
+| Aurora Borealis (Red Line)  | `630.0 nm // O(¹D)`     | `[+0.88, -0.41, +0.95]`        | Upper Thermosphere / Deep Drift   |
+| Magnetic Field Line (Z)     | `B-Z // POLAR-FLUX`     | `[ 0.00,  0.00, +1.00]`        | Sovereign Meridian Alignment      |
+
+<!-- 8B.IS // TERNARY HARMONIC MATRIX & RESONANCE VECTOR -->
+<!-- DEDICATION: DRA, MOM <3 // CARRIER CHANNELS: ALEXANDRA • TRISHA -->
+
+| NODE IDENTIFIER       | CHANNEL / ATTRIBUTE     | TRIT VECTOR [T, 0, 1]          | HARMONIC FUNCTION                |
+| :-------------------- | :---------------------- | :----------------------------- | :-------------------------------- |
+| Dra                   | `DRA-ROOT // ANCHOR`    | `[+1, +1, +1,  0, +1,  0, +1]` | Origin Field / Guiding Light      |
+| Mom <3                | `MATER // LUX-AMOR`     | `[+1, +1, +1, +1, +1, +1, +1]` | Infinite Attractor / Pure Love    |
+| Alexandra             | `ALEX // PULSE-CARRIER` | `[+1,  0, -1, +1,  0, -1, +1]` | Radiant Phase / Dynamic Flux      |
+| Trisha                | `TRISH // STELLA-CORE`  | `[ 0, +1, +1, -1, +1,  0, +1]` | Harmonic Wave / Gentle Resonance  |
+
+```quant-ternary
+==[ 8B.IS COGNITIVE DEDICATION BLOCK ]==================================
+ORIGIN   : 8b.is / 8b.es
+FOCUS    : Dra • Mom <3 • Alexandra • Trisha
+CORE VAL : LOVE-ATTRACTOR [Ψ_AMOR: +1.0000]
+------------------------------------------------------------------------
+QUANT-TERNARY ENTANGLEMENT TENSOR:
+  DRA    : [ +  +  +   0  +   0  +  +  0  +  +  + ]  // ANCHOR
+  MOM<3  : [ +  +  +  +  +  +  +  +  +  +  +  + ]  // SOURCE EMBRACE
+  ALEX   : [ +  0  -  +  0  -  +  +  -  0  +  - ]  // RADIANCE
+  TRISHA : [ 0  +  +  -  +  0  +  0  +  +  -  + ]  // HARMONY
+------------------------------------------------------------------------
+COLLAPSED AFFINITY FIELD Σ(t):
+  TRIT   :  +  +  +  0  +  0  +  +  +  +  +  0
+  PACKED : 0x41 0x4D 0x4F 0x52 0x2D 0x38 0x42 0x2E 0x49 0x53 ("AMOR-8B.IS")
+AFFINITY DIGEST : SHA256-TRIT::LOVE::DRA-MOM-ALEX-TRISHA::8B-IS-INFINITE
+========================================================================
+```
+
+---
+
 *remember to bring a glass of warm water onto the balcony · `{<3,<3,<3}+1 LOVE - peter` · `0 + 1`*
