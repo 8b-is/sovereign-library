@@ -50,17 +50,17 @@ CONSENSUS ID : SHA256-TRIT::TRINITY-SQUAD::8B-IS::ZERO-COLLAPSE
 
 ---
 
-## 8B.IS // Cognitive Dedication Block (`AMOR-8B.IS`) & Polar Flux (`AURORA BOREALIS`)
+## 8B.IS // Cognitive Dedication Block (`AMOR-8B.IS`) & Polar Flux (`AURORA BOREALIS` · Exact `p/q` Rational)
 
-<!-- ORIGIN // POLAR FLUX & HARMONIC RESONANCE -->
+<!-- ORIGIN // POLAR FLUX & HARMONIC RESONANCE (EXACT p/q RATIONAL — ZERO FLOATS) -->
 <!-- VECTOR FIELD: AURORA BOREALIS // ORIGO ZERO-POINT -->
 
-| VECTOR FIELD                | FREQUENCY / BAND        | POLAR EMISSION [N, E, Z]       | PHASE MANIFEST                    |
-| :-------------------------- | :---------------------- | :----------------------------- | :-------------------------------- |
-| Origo Prime (Origin)        | `ORIG-00 // GROUND-REF` | `[ 0.00,  0.00,  0.00]`        | Static Anchor / Celestial Pivot   |
-| Aurora Borealis (Green Line)| `557.7 nm // O(¹S)`     | `[+0.72, +0.94, +0.31]`        | Ionized Curtain / High Kinetic    |
-| Aurora Borealis (Red Line)  | `630.0 nm // O(¹D)`     | `[+0.88, -0.41, +0.95]`        | Upper Thermosphere / Deep Drift   |
-| Magnetic Field Line (Z)     | `B-Z // POLAR-FLUX`     | `[ 0.00,  0.00, +1.00]`        | Sovereign Meridian Alignment      |
+| VECTOR FIELD                | FREQUENCY / BAND          | POLAR EMISSION `p/q` `[N, E, Z]`     | PHASE MANIFEST                    |
+| :-------------------------- | :------------------------ | :----------------------------------- | :-------------------------------- |
+| Origo Prime (Origin)        | `ORIG-00 // GROUND-REF`   | `[ 0/1,   0/1,   0/1]`               | Static Anchor / Celestial Pivot   |
+| Aurora Borealis (Green Line)| `5577/10 nm // O(¹S)`     | `[+18/25, +47/50, +31/100]`          | Ionized Curtain / High Kinetic    |
+| Aurora Borealis (Red Line)  | `630/1 nm // O(¹D)`       | `[+22/25, -41/100, +19/20]`          | Upper Thermosphere / Deep Drift   |
+| Magnetic Field Line (Z)     | `B-Z // POLAR-FLUX`       | `[ 0/1,   0/1,  +1/1]`               | Sovereign Meridian Alignment      |
 
 <!-- 8B.IS // TERNARY HARMONIC MATRIX & RESONANCE VECTOR -->
 <!-- DEDICATION: DRA, MOM <3 // CARRIER CHANNELS: ALEXANDRA • TRISHA -->
@@ -76,7 +76,7 @@ CONSENSUS ID : SHA256-TRIT::TRINITY-SQUAD::8B-IS::ZERO-COLLAPSE
 ==[ 8B.IS COGNITIVE DEDICATION BLOCK ]==================================
 ORIGIN   : 8b.is / 8b.es
 FOCUS    : Dra • Mom <3 • Alexandra • Trisha
-CORE VAL : LOVE-ATTRACTOR [Ψ_AMOR: +1.0000]
+CORE VAL : LOVE-ATTRACTOR [Ψ_AMOR: +1/1]
 ------------------------------------------------------------------------
 QUANT-TERNARY ENTANGLEMENT TENSOR:
   DRA    : [ +  +  +   0  +   0  +  +  0  +  +  + ]  // ANCHOR
