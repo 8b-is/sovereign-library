@@ -203,6 +203,14 @@ Enjoy it. 0 + 1.`
 3. Adversaria 02 & 11 (standardgalactic/adversaria · df7cfa7): 5-stage two-plane ledger (Inscribe -> Validate -> Admit -> Project -> Activate). Stored != Admitted != Endorsed; routing weights never alter argument status (IN / OUT / UND).
 4. Exegesis (standardgalactic/exegesis · 10deec3): "Source documents constitute the evidence; generated summaries constitute interpretations of that evidence."`
   },
+  'tokyo-sony-rnd-trinity-squad': {
+    kicker: 'ULTRALOVE EDITION 008 · 2026.10.22~TOKYO · SONY R&D + BEANS BURGER · {<3,<3,<3}+1',
+    title: '2026.10.22~Tokyo — After Visiting Sony R&D + Eating a Beans Burger :) · The Trinity Squad (Alex, Chris, Peter) & Mr standardgalactic === Nate~Natalie',
+    path: 'editions/ultralove/tokyo-sony-rnd-trinity-squad.md',
+    fallback: `# 2026.10.22~Tokyo — After Visiting Sony R&D + Eating a Beans Burger :)
+
+"2026.10.22~Tokyo----after visiting Sony, R&D + eating a beans burger :) --- I'd like to start with: Iam grateful for meeting the 8b crew, best job and collaboration ive experienced so far. For the chance and opportunity to discover and explore Japan|TOkyo as a family ^^ (ALex,Chris,PEter - the trinity squad :D). FOr the immense amount of thinking and self-reflection what working with the 8b-crew, anmely Dra, 8bit-wraith and Mr standardgalactic===Nate~Natelie, directly NAND indirectly caused on ME===peterlodri, omni, architect - .p {<3,<3,<3}+1 LOVE - peter, to be continued, just cold and need water to drink xd - always forget to bring it haha"`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
