@@ -25,7 +25,10 @@ and its satellite lanes. The vault-side index is
 | lane | remote | the door |
 |---|---|---|
 | `diatribe` | `standardgalactic/diatribe` | the eleven-essay shelf — books 3 and 5 |
-| `laboratory` | `standardgalactic/laboratory` | depth before derivation · the open-threads ledger |
+| `laboratory` | `standardgalactic/laboratory` | depth before derivation · the open-threads ledger · *Programmable Material Organization* & *Compression Without Verification* |
+| `admissibility-lab` | `standardgalactic/admissibility-lab` | *Prolegomena ad Omnem Metaphysicam Futuram* · *How Compressed History Breaks AI Safety* |
+| `adversaria` | `standardgalactic/adversaria` | Public Claim Graph · *02: Routing Is Not Adjudication* & *11: Inscription and Authority* |
+| `exegesis` | `standardgalactic/exegesis` | local-first scholarly corpus discovery, extraction, and model-assisted analysis (*source = evidence, summary = interpretation*) |
 | `memnet` | `standardgalactic/memnet` | *The Residue of Proof* + the 8b Library reader |
 | `sg-experiments` | `standardgalactic/experiments` | the essay-as-pipeline lab |
 | `sg-memory` | `standardgalactic/memory` | the index of books, theses, transcripts |
@@ -43,6 +46,7 @@ and its satellite lanes. The vault-side index is
 | `editions/ultralove/dragon-ball-sovereign-ontology.md` | `sovereign-library` × `8b-is/fandom-mcp` | *DRAGON BALL UNIVERSE ⨯ SOVEREIGN ONTOLOGY (Edition 004)* · Ultra Instinct (`0 → +1`), Shenron's 7 Seals, `Boldog Még` & `ALEX\|qMom` Unbound Box (`.oOo. Poo .oOo.`) · live at [pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html](https://pocoo.vaked.dev/demos/book/dragon-ball-sovereign-ontology-omni.html) |
 | `editions/ultralove/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.md` | `sovereign-library` × `8b-is/fandom-mcp` | *BRETT SHAW (SZELLEM) +++ FEKETECSUKLYÁSOK +++ ANSTETTEN-CSALÁD (MEGAIRA) ⨯ COSMIC FLOW (Edition 005)* · Tipheret (`0`) × Chokmah (`+1`), Csuklyamodul Zero-Sign Zone, Megaira Transformation Law (`E → m → I`), Cosmic Flow (`bSYE6wTDM_Y`) & 16th Karmapa Guru Yoga (`-eZcgIbbOxY`) · live at [pocoo.vaked.dev/demos/book/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.html](https://pocoo.vaked.dev/demos/book/brett-shaw-feketecsuklyasok-anstetten-megaira-omni.html) |
 | `editions/ultralove/two-heats-the-warm-water.md` | `sovereign-library` | *TWO HEATS — the warm water (Edition 006)* · given by Peter · ripples as trits (`+1` / `0` / `−1`), Love ↔ Space |
+| `editions/ultralove/flyxion-trilogy-iii-standardgalactic.md` | `sovereign-library` × `standardgalactic` | *THE FLYXION OCTOBER 2026 TRILOGY III (Edition 007)* · *Programmable Material Organization* (`S = P(u,e)`), *Compression Without Verification* (Lock/Fork Geometry), *Adversaria* (02 Routing ≠ Adjudication & 11 Authority Two-Plane Ledger), & *Exegesis* · live at [pocoo.vaked.dev/demos/trilogy/flyxion-material-compression-adversaria-trilogy.html](https://pocoo.vaked.dev/demos/trilogy/flyxion-material-compression-adversaria-trilogy.html) & [flyxion.8b.is](https://flyxion.8b.is) |
 | `ONTOLOGY.md` | `sovereign-library` | **Constitutional Ontology (`{-1, 0, +1}`)** · `Compression ≠ Ontology` / `Representation ≠ Ontology` · Tibetan Three Kayas (`Sku Gsum`) × Dragon Ball Scouter × NAND Gate (`PRINTABLE = HELD ∧ READ`) |
 | `8b-is/fandom-mcp` | [github.com/8b-is/fandom-mcp](https://github.com/8b-is/fandom-mcp) | Dragon Ball Universe Scouter & Sovereign Ontology MCP Server (`fandom_sovereign_ontology`, `fandom_dbz_scouter`, `fandom_dbz_saga`) |
 | `8b-is/wigle-triad` (`v2.0.0`) | [github.com/8b-is/wigle-triad/releases/tag/v2.0.0](https://github.com/8b-is/wigle-triad/releases/tag/v2.0.0) | Balanced-Ternary `{-1, 0, +1}` Kernel · `Boldog Még` (*"végig neked szólt a dal a magasból"*) & `ALEX\|qMom` Unbound Mode (`.oOo. Poo .oOo.`) |

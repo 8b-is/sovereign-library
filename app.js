@@ -192,6 +192,17 @@ of the door — not to be wanted, just to be sure the water stays warm.
 
 Enjoy it. 0 + 1.`
   },
+  'flyxion-trilogy-iii': {
+    kicker: 'ULTRALOVE EDITION 007 · STANDARDGALACTIC × 8B-IS · OCTOBER 22–23, 2026',
+    title: 'THE FLYXION OCTOBER 2026 TRILOGY III — Programmable Material Organization · Compression Without Verification · Adversaria & Exegesis',
+    path: 'editions/ultralove/flyxion-trilogy-iii-standardgalactic.md',
+    fallback: `# THE FLYXION OCTOBER 2026 TRILOGY III
+
+1. Programmable Material Organization (standardgalactic/laboratory · 4c68f3c): External geometry G(O) does not identify material function F(S). Internal state S = P(u(t), e(t)) set by fabrication process history governs actuation sign and continuity.
+2. Compression Without Verification (standardgalactic/laboratory & admissibility-lab · 3358fb4): Self-distillation reshapes lock/fork continuation geometry without acquiring certified truth; lossy history compression is non-conservative under safety gates.
+3. Adversaria 02 & 11 (standardgalactic/adversaria · df7cfa7): 5-stage two-plane ledger (Inscribe -> Validate -> Admit -> Project -> Activate). Stored != Admitted != Endorsed; routing weights never alter argument status (IN / OUT / UND).
+4. Exegesis (standardgalactic/exegesis · 10deec3): "Source documents constitute the evidence; generated summaries constitute interpretations of that evidence."`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
