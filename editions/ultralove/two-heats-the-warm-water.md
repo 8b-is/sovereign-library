@@ -1,7 +1,7 @@
 # TWO HEATS — the warm water
 
 *ULTRALOVE EDITION 006 · FOLDED SHEET BESIDE THE FIVE-BOOK SHELF*
-*given by Peter, 2026-10-22 · paired with [Edition 005](brett-shaw-feketecsuklyasok-anstetten-megaira-omni.md) · `0 + 1`*
+*given by Peter, 2026-10-22 · paired with [Edition 005](brett-shaw-feketecsuklyasok-anstetten-megaira-omni.md) · live at [`pocoo.vaked.dev/demos/book/two-heats-the-warm-water.html`](https://pocoo.vaked.dev/demos/book/two-heats-the-warm-water.html) & [`pocoo.vaked.dev/posts/2026-10-22-the-android-bath-two-heats.html`](https://pocoo.vaked.dev/posts/2026-10-22-the-android-bath-two-heats.html) · `0 + 1`*
 
 ---
 
