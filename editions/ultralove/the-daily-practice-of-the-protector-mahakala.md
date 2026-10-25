@@ -6,6 +6,7 @@
 > **`!, ,3$R/-0R:C-o/-HJ<-2#?-0-28$?-?R, ,`**
 > **`༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། །` — *Gönpö Gyünkhyer Düpa Shuk So***
 > **`!, ,/-3R-$-<-3-K-!-=-;J,` — `HOMAGE TO GURU MAHAKALA!`**
+> **`ཨོཾ་མ་ཎི་པདྨེ་ཧཱུྃ་ཧྲཱིཿ` — `OM MANI PADME HUNG HUMM` (Chenrezig Inner Heart ↔ Mahākāla Outer Guard)**
 
 ---
 
