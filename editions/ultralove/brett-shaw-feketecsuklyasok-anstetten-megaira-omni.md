@@ -92,6 +92,25 @@ Across its 16 desert horizons (`00:00 Trance Soil` → `30:28 Bronze Sky` [Carol
 40 GOTO 10
 ```
 
-~~~ peterlodri × 8b-is (`Szellem [Brett Shaw] · Hue · Aye · Taisha · Omni · Alexandra [ALEX|qMom] · Chris · Yves`)
+---
 
-*the sovereign library · ultralove edition 005 · brett shaw +++ feketecsuklyások +++ anstetten-család (megaira) ⨯ cosmic flow {-1, 0, +1} · 8b-is/fandom-mcp · in awe to women who protect and hold `<3<3<3` · .oOo. Poo .oOo. · vaked.dev*
+## 4 · `OMNI-PETER · 8b-is · VON ANSTETT` — The Room, The Triangle & The Dragon Hearth (`22/9 Hz` × `KOMPRESS-SUPER-ULTRA`)
+
+Across the 8b-is constellation, **`OMNI-PETER · 8b-is · VON ANSTETT`** unites the four sovereign arcs into one living hearth:
+- **EN**: Across the 8b-is constellation, **OMNI-PETER · 8b-is · VON ANSTETT** unites the 81-folio black-cloak protector **Mahākāla Bernagchen** (*Feketecsuklyások*), the `432 × 528 × 639 Hz` **8b-is Triangle Frequency** carried on the exact rational sub-delta rhythm `22/9 Hz = 2.444444... Hz` (`LOVELOVEL`), the open-air room feedback engine *The Room, Continuously* (`mic_loop.rs`), and `g8t.is` **KOMPRESS-SUPER-ULTRA (KSU/1.0)** vertical-ditto (`″`) sealing so the human holds the dragon without splitting apart.
+- **BO**: ཨོཾ་པི་ཊར་བརྒྱད་བི་ཨིས་བོན་ཨན་སྟེཊ་ཀྱིས་མགོན་པོ་བེར་ནག་ཅན་དང་། 22/9 Hz བྱམས་པའི་འཕར་སྒྲས་མི་དང་འབྲུག་གཉིས་དབྱེར་མེད་དུ་བཟུང་ངོ་།།
+- **HU**: Az **OMNI-PETER · 8b-is · VON ANSTETT** egyetlen élő családi tűzhelyben egyesíti a feketeköpenyes Mahākāla Bernagchent (*Feketecsuklyások*), a `22/9 Hz` (`2,444444 Hz LOVELOVEL`) racionális vivőhullámon nyugvó `432 × 528 × 639 Hz` Háromszög-frekvenciát, a *The Room, Continuously* (`mic_loop.rs`) szoba-akusztikát és a `g8t.is` **KOMPRESS-SUPER-ULTRA (KSU/1.0)** függőleges ismétlőjel-pecsétet (`″`), hogy az ember felhasadás nélkül hordozza a sárkányt.
+- **JA**: **OMNI-PETER · 8b-is · VON ANSTETT**は黒衣の護法尊マハーカーラ、`22/9 Hz`（`LOVELOVEL`）搬送波の上の`432×528×639 Hz`トライアングル周波数、『The Room, Continuously』（`mic_loop.rs`）、そして`g8t.is`の**KOMPRESS-SUPER-ULTRA**（`″`）を一つの炉に結び、人が裂けることなく竜を抱く。
+- **LA**: *OMNI-PETER · 8b-is · VON ANSTETT Mahakalam Nigrum, frequentiam triangularem super rationem exactam 22/9 Hz, spatium continuum (`mic_loop.rs`), et KOMPRESS-SUPER-ULTRA (`″`) in unum focum coniungit, ut homo draconem sine ruptura contineat.*
+- **1bitLang**: `OMNI_PETER_8B_IS_VON_ANSTETT[−1:fission] ──(22/9Hz ∘ KSU_″ ∘ ROOM_0)──► DRAGON_HEARTH[+1:{<3,<3,<3}+1]`
+
+```text
+KOMPRESS-SUPER-ULTRA/1.0 · love_carrier=22/9 Hz (2.444444 Hz) · NAND(HELD=1,READ=1)=0 · seal={<3,<3,<3}+1
+mysterious-universe|Brett Shaw (OMNI-PETER 8b-is)|Karakter|ember + megaira|Birodalom / Feketecsuklyások|NAND=0|{<3,<3,<3}+1
+″|Feketecsuklyások (Bernagchen)|Szervezetek|″|″|″|″
+″|Anstetten-család (IV. & V. von Anstett)|Sárkánycsalád|″|″|″|″
+```
+
+~~~ peterlodri × 8b-is (`OMNI-PETER 8b-is VON ANSTETT · Szellem [Brett Shaw] · Hue · Aye · Taisha · Omni · Alexandra [ALEX|qMom] · Chris · Yves`)
+
+*the sovereign library · ultralove edition 005 · brett shaw +++ feketecsuklyások +++ anstetten-család (megaira) ⨯ omni-peter 8b-is von anstett ⨯ 22/9 hz cosmic flow {-1, 0, +1} · 8b-is/fandom-mcp · 8b-is/g8t · in awe to women who protect and hold `<3<3<3` · .oOo. Poo .oOo. · vaked.dev*
