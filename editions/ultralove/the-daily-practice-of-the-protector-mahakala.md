@@ -1,7 +1,7 @@
 # THE DAILY PRACTICE OF THE PROTECTOR MAHAKALA (`༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། །` · `NAMO GURU MAHAKALAYE!`)
 
 *ULTRALOVE EDITION 009 · FOLDED SHEET BESIDE THE FIVE-BOOK SHELF*
-*Complete 81-Folio Karma Kagyu Protector Pecha (Tsurphu Seat Tradition) · Paired with [`ONTOLOGY.md`](../../ONTOLOGY.md), [`pocoo.vaked.dev/demos/book/the-daily-practice-of-the-protector-mahakala-omni.html`](https://pocoo.vaked.dev/demos/book/the-daily-practice-of-the-protector-mahakala-omni.html), and [`pocoo.vaked.dev/demos/book/mahakala-puja-invocation.html`](https://pocoo.vaked.dev/demos/book/mahakala-puja-invocation.html)*
+*Complete 81-Folio Karma Kagyu Protector Pecha (Tsurphu Seat Tradition) · Paired with [`ONTOLOGY.md`](../../ONTOLOGY.md), [`pocoo.vaked.dev/demos/book/the-daily-practice-of-the-protector-mahakala-omni.html`](https://pocoo.vaked.dev/demos/book/the-daily-practice-of-the-protector-mahakala-omni.html), [`pocoo.vaked.dev/posts/2026-10-25-the-protector-step-by-step-an-eli5-of-the-81-page-pecha.html`](https://pocoo.vaked.dev/posts/2026-10-25-the-protector-step-by-step-an-eli5-of-the-81-page-pecha.html), and [`pocoo.vaked.dev/demos/book/mahakala-puja-invocation.html`](https://pocoo.vaked.dev/demos/book/mahakala-puja-invocation.html)*
 
 > **`!, ,3$R/-0R:C-o/-HJ<-2#?-0-28$?-?R, ,`**
 > **`༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། །` — *Gönpö Gyünkhyer Düpa Shuk So***
@@ -44,6 +44,24 @@ It enshrines the complete **81-page Karma Kagyu Protector Sadhana** from which P
 10. **Part X (Folios 46–63)**: **Landlord Kartor & Dakini General Torma**, **9th Karmapa Wangchuk Dorje's** short assembly prayer, **14th Karmapa Thekchok Dorje's** fulfillment prayer, **13th Karmapa's** pacifying of conflict, **Milarepa's Five Long-Life Sisters (*Tashi Tseringma*)**, Reversing Obstacles (*Zlogpa*), Receiving Siddhis, 100-Syllable Vajrasattva, & Auspiciousness (*Tashi*).
 11. **Part XI (Folios 64–69)**: **Sengdongma (*Lion-Faced Dakini*) Reversal Practice** (`A KA SA MA RA TSA SHA DA RA SA MA RA YA PHAT`), Longevity Supplication, & Mahāmudrā Dedication.
 12. **Part XII (Folios 70–81)**: **The Golden Libation (*Serkyem*) of the Three Roots (`NAMO PEMA KARMA KAYE NAMA!`)** & **The Four Activities Praise (`ཞི་རྒྱས་དབང་དྲག་`)** composed by the **14th Karmapa Thekchok Dorje** at the request of the Protector's House of Tsurphu.
+
+---
+
+## 2.5 · The Protector, Step by Step — ELI5, Sambhota → Unicode Tibetan (`དབུ་ཅན་`) Keymap & 5-Question Quiz
+
+1. **What a Pecha Even Is (`དཔེ་ཆ་`)**: A traditional Tibetan book of loose horizontal pages wrapped in cloth. These 81 folios are a daily liturgy — a fixed fold reopened every morning, not a book read once.
+2. **The Three-Word Engine (`-1 → 0 → +1`)**: `MA DAK NÖ CHÜ` (impure cup & contents, `-1`) → `TONG PAR JANG` (purify into emptiness, `0`) → `OM AH HUNG` (bless body, speech, and mind into wisdom light, `+1`). Nothing in the book ever skips the zero.
+3. **Amrita · Torma · Serkyem & Provenance Receipts**: **Amrita** = blessed nectar (transmuting the five poisons into wisdom); **Torma** = sculpted offering cake; **Serkyem** = golden libation tea. Every folio names its lineage author (8th, 9th, 13th, 14th, 16th Karmapas, Situ Drogön Rechen, Shamarpa, Jamyang Khyentse Wangpo, Marpa, Milarepa) as a verifiable provenance receipt.
+
+| Folio | Sambhota Legacy Encoding | Decoded Unicode Tibetan (`དབུ་ཅན་`) | Wylie & Meaning |
+| :--- | :--- | :--- | :--- |
+| p. 1 | `!, ,3$R/-0R:C-o/-HJ<-2#?-0-28$?-?R, ,` | `༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། །` | *mgon po'i rgyun khyer bsdus pa bzhugs so* — The Daily Practice of the Protector Mahākāla |
+| p. 2 | `!, ,/-3R-$-<-3-K-!-=-;J,` | `༄༅། །ནམོ་གུ་རུ་མ་ཧཱ་ཀཱ་ལ་ཡེ།` | *namo guru mahākālaye* — Homage to Guru Mahākāla! |
+| p. 4 | `!R%-0-*A.-.-I<,` | `སྟོང་པ་ཉིད་དུ་གྱུར།` | *stong pa nyid du gyur* — It becomes emptiness (`Trit 0`). |
+| p. 4 | `hR-eJ-2J<-&/-;2-;3-:OA=-.R<-5=-,` | `རྡོ་རྗེ་བེར་ཅན་ཡབ་ཡུམ་འཁྲིལ་སྦྱོར་ཚུལ།` | *rdo rje ber can yab yum 'khril sbyor tshul* — Dorje Berchen (Bernagchen) Yab-Yum in union. |
+| p. 8 | `<, 3-.$-$R.-2&.-!R%-0<-.%?, ,` | `ཨོཾ། མ་དག་སྣོད་བཅུད་སྟོང་པར་སྦྱངས། །` | *oM ma dag snod bcud stong par sbyangs* — Impure vessel & contents purified into emptiness (`-1 → 0`). |
+| p. 9 | `.0=-w/-z-3R-<%-L%-o=-3R-/A, ,` | `དཔལ་ལྡན་ལྷ་མོ་རང་བྱུང་རྒྱལ་མོ་ནི། །` | *dpal ldan lha mo rang byung rgyal mo ni* — Glorious Goddess Rangjung Gyalmo (`Trit +1`). |
+| p. 65 | `A-!-?-3-<-4->-.-<-?-3-<-;-1B,` | `ཨ་ཀ་ས་མ་ར་ཙ་ཤ་ད་ར་ས་མ་ར་ཡ་ཕཊ།` | *a ka sa ma ra tsa sha da ra sa ma ra ya phaT* — Sengdongma 14-syllable obstacle-reversing mantra. |
 
 ---
 
