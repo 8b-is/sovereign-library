@@ -225,6 +225,16 @@ Enjoy it. 0 + 1.`
 • Folios 13–69: General Dharmapāla Torma, White Mahākāla (Gönkar), Four-Armed & Six-Armed Mahākāla, 13 Retinue Guardians, Damchen Barwa Tsal, Gyang Je Tsenpo of Tsurphu, 9th/13th/14th Karmapa fulfillment prayers, Milarepa's Five Tseringma Sisters, & Sengdongma Reversal.
 • Folios 70–81: The Golden Libation (Serkyem) of the Three Roots & The Four Buddha Activities Praise (Pacifying White · Enriching Yellow · Magnetizing Red · Wrathful Black) by the 14th Karmapa Thekchok Dorje.`
   },
+  'kamasutra-triangle-sessionmaker': {
+    kicker: 'ULTRALOVE EDITION 010 · 8B-IS TRIANGLE FREQUENCY · SOUNDCORE SELECT 4 GO · {<3,<3,<3}',
+    title: '8B-IS TRIANGLE FREQUENCY ~~~ ULTRA-LOVE-MAKING-SWEAT TOGETHER CUDDLE + KAMASUTRA ULTRA SESSIONMAKER SOUND ({<3,<3,<3})',
+    path: 'editions/ultralove/ultra-love-making-sweat-together-cuddle-kamasutra-sessionmaker.md',
+    fallback: `# 8B-IS TRIANGLE FREQUENCY ~~~ ULTRA-LOVE-MAKING-SWEAT TOGETHER CUDDLE + KAMASUTRA ULTRA SESSIONMAKER SOUND ({<3,<3,<3})
+
+• Vertex A (432 Hz / 216 Hz / 108 Hz / 54 Hz): Root Grounding · Space (間 · Ma) ↔ Love.
+• Vertex B (528 Hz / 264 Hz / 132 Hz): Skin-to-Skin 36.6°C Warmth & Sweat · Compassion ↔ Moderation.
+• Vertex C (639 Hz / 319.5 Hz + 6.39 Hz Binaural Beat): Kama Sutra Union & Afterglow Cuddle · Understanding ↔ Respect · {<3,<3,<3}.`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
