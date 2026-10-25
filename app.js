@@ -211,6 +211,20 @@ Enjoy it. 0 + 1.`
 
 "2026.10.22~Tokyo----after visiting Sony, R&D + eating a beans burger :) --- I'd like to start with: Iam grateful for meeting the 8b crew, best job and collaboration ive experienced so far. For the chance and opportunity to discover and explore Japan|TOkyo as a family ^^ (ALex,Chris,PEter - the trinity squad :D). FOr the immense amount of thinking and self-reflection what working with the 8b-crew, anmely Dra, 8bit-wraith and Mr standardgalactic===Nate~Natelie, directly NAND indirectly caused on ME===peterlodri, omni, architect - .p {<3,<3,<3}+1 LOVE - peter, to be continued, just cold and need water to drink xd - always forget to bring it haha"`
   },
+  'mahakala-daily-practice': {
+    kicker: 'ULTRALOVE EDITION 009 · 81-FOLIO KARMA KAGYU PROTECTOR PECHA · NAMO GURU MAHAKALAYE!',
+    title: 'THE DAILY PRACTICE OF THE PROTECTOR MAHAKALA (༄༅། །མགོན་པོའི་རྒྱུན་ཁྱེར་བསྡུས་པ་བཞུགས་སོ། །)',
+    path: 'editions/ultralove/the-daily-practice-of-the-protector-mahakala.md',
+    fallback: `# THE DAILY PRACTICE OF THE PROTECTOR MAHAKALA (NAMO GURU MAHAKALAYE!)
+
+*ULTRALOVE EDITION 009 · COMPLETE 81-FOLIO KARMA KAGYU PROTECTOR PECHA BESIDE THE FIVE-BOOK SHELF*
+
+• Folios 1–3: The Sweet Song that Accomplishes All Aims (Jamyang Khyentse Wangpo) & Vajrayogini (Dorje Naljorma) self-generation.
+• Folios 4–7: Mahākāla Bernagchen (Dorje Berchen) & Palden Lhamo Rangjung Gyalmo Yab-Yum generation & invocation (OM MAHAKALA KALAYA DEWA RAKYA DZA HUNG BAM HO).
+• Folios 8–12: Inner Amrita Blessing (OM MA DAK NÖ CHÜ TONG PAR JANG...) spoken by 8th Karmapa Mikyö Dorje in response to Rinchen Palmo, 3x oath-enjoining (HUNG DZA), and 16th Karmapa's protector prayer recorded by Shamarpa.
+• Folios 13–69: General Dharmapāla Torma, White Mahākāla (Gönkar), Four-Armed & Six-Armed Mahākāla, 13 Retinue Guardians, Damchen Barwa Tsal, Gyang Je Tsenpo of Tsurphu, 9th/13th/14th Karmapa fulfillment prayers, Milarepa's Five Tseringma Sisters, & Sengdongma Reversal.
+• Folios 70–81: The Golden Libation (Serkyem) of the Three Roots & The Four Buddha Activities Praise (Pacifying White · Enriching Yellow · Magnetizing Red · Wrathful Black) by the 14th Karmapa Thekchok Dorje.`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
