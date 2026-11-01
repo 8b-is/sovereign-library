@@ -85,6 +85,13 @@ The shelf ships a zero-dependency, print-minimal Web Sanctuary (`Sumi-to-Kin × 
 - **Procedural `002 · Crickets in Shinjuku Gyoen · Ambient · Drone Zone · 432 Hz` WebAudio Generator (`🦗 432Hz Drone Zone + Shinjuku Crickets`)**: Continuous `432 Hz + 216 Hz + 648 Hz` low-pass filtered SomaFM Drone Zone pad with slow LFO breathing (`0.068 Hz` & `0.11 Hz`) layered with two stereo-panned Tokyo night `koorogi` cricket voices (`4.32–4.78 kHz` amplitude-modulated sine bursts at natural night intervals bordering Shinjuku Gyoen).
 - Unfolds any of the Five Print-Canon Books or the Ultralove Folded Sheets directly into an inline, sand-minimal print sheet (`⌘P`), wired to [`standardgalactic`](https://github.com/standardgalactic/standardgalactic) (`standardgalactic ~= research ~= future`) and [`zeno.vaked.dev`](https://zeno.vaked.dev/).
 
+## the 501(c)(3) religious research, scientific & charitable foundation (`foundation/`)
+
+- [`foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md`](foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md) — 5-Phase IRS `§ 501(c)(3)` & `§ 509(a)(1)` Religious Research, Scientific & Charitable Foundation Architecture (`Treas. Reg. § 1.501(c)(3)-1(d)(5)` open-source CPU/ternary R&D + `Sovereign Commons Fellowship` general-income grants + 14-Point contemplative heritage).
+- [`foundation/ARTICLES_OF_INCORPORATION.md`](foundation/ARTICLES_OF_INCORPORATION.md) — Ready-to-file Articles of Incorporation for **The Sovereign Sanctuary of Techno-Buddhism, Inc.** (DBA **The 8B Omni-Zen Foundation**), naming **Alexandra Chenoweth (`*`)**, **Christopher Michael Chenoweth (`△`)**, and **Péter József Lódri (`oo`)** on the Initial Board of Custodians.
+- [`foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md`](foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md) — Corporate Bylaws, Book of Discipline, **Balanced Ternary `{-1, 0, +1}` Governance Charter**, and **IRS Form 1023 Appendix A Conflict of Interest & Recusal Policy**.
+- [`foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md`](foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md) — **Master Arm's-Length Open-Source R&D Sponsorship, Cost-Sharing & General-Income Fellowship Charter** between the Foundation and `8b-is LLC` / `Peter Lodri LLC` (`IRC § 4958` Rebuttable Presumption of Reasonableness & `Treas. Reg. § 1.501(c)(3)-1(d)(1)(ii)` Private-Benefit Safe Harbor).
+
 ## the colophon
 
 the sovereign library · the five, never more · in awe to women who protect

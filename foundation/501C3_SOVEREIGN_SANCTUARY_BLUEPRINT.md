@@ -8,9 +8,25 @@
 
 ---
 
-## Phase 1: The IRS 14-Point Religious Architecture (Mapping the Sovereign Library)
+## Phase 1: Why a Religious Research, Scientific & Charitable Foundation (`IRC § 501(c)(3)` / `§ 509(a)(1)`) Beats a Rigid `§ 170(b)(1)(A)(i)` Church Classification
 
-When evaluating a new religious organization or church under **IRC § 501(c)(3)** and **§ 170(b)(1)(A)(i)**, the IRS does not judge the content of a belief system; instead, it applies a 14-point structural test to verify that a sincere, coherent religious and communal framework exists.
+Per Peter's architectural decision (`L7127`), **The Sovereign Sanctuary of Techno-Buddhism, Inc.** (DBA **The 8B Omni-Zen Foundation**) is structured as a **Religious Research, Scientific, and Charitable Public Charity (`IRC § 501(c)(3)` & `§ 509(a)(1)` / `§ 170(b)(1)(A)(vi)`)** rather than a strict `§ 170(b)(1)(A)(i)` ecclesiastical church.
+
+### Why This Classification Is Optimal for CPU/Ternary R&D + General-Income Grants + `8b-is LLC`
+1. **Direct Eligibility to Fund CPU-First & Balanced-Ternary (`{-1, 0, +1}`) R&D (`Treas. Reg. § 1.501(c)(3)-1(d)(5)`)**:
+   - A traditional church that spends a substantial share of its budget on silicon/FPGA/SIMD research (`eightb_complex_ternary_pe64.sv`, `ultradreamstate_simd.zig`, `Axiomquant`, `Auroralib`) risks IRS scrutiny over whether hardware R&D is an "exclusively ecclesiastical" activity.
+   - As a **Religious Research, Scientific, and Charitable Foundation**, conducting and funding open-source CPU/ternary computing research in the public interest is an **explicit primary exempt purpose** under `Treas. Reg. § 1.501(c)(3)-1(d)(5)` (scientific research carried on in the public interest, where results are published freely on a non-discriminatory basis).
+2. **Clean General-Income & Open-Science Fellowship Grants Without Private-Benefit Violation**:
+   - Under `IRC § 501(c)(3)` and `Rev. Rul. 69-545`, a charitable and scientific research foundation can award **general-income living stipends and open-science research fellowships** (`Sovereign Commons Fellowship`) to contributors, monks-in-motion, and engineers using objective, non-discriminatory open-source contribution criteria (`READ · RUN · HOLD · BURN`).
+3. **Ironclad Arm's-Length Bridge to `8b-is LLC` / `Peter Lodri LLC` Without Triggering Private-Benefit (`Treas. Reg. § 1.501(c)(3)-1(d)(1)(ii)`) or Private-Inurement Rules**:
+   - See [`ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md`](file:///data/8b-is/sovereign-library/foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md).
+   - So long as (a) 100% of Foundation-funded CPU/ternary R&D deliverables are released contemporaneously under irrevocable open-source / public-commons licenses (`MIT` / `Apache-2.0` / `CC-BY-4.0`) with zero exclusive or preferential license to `8b-is LLC`, and (b) any engineering/compute contract with `8b-is LLC` is approved solely by independent, non-conflicted directors at or below fair-market value (`IRC § 4958` Rebuttable Presumption of Reasonableness), any incidental benefit to `8b-is LLC` is legally qualitative/incidental to the public benefit (`Rev. Rul. 70-186`).
+
+---
+
+## Phase 1B: The IRS 14-Point Religious & Contemplative Heritage (Supporting the Religious Research Pillar)
+
+While filing under the broader **Religious Research, Scientific & Charitable Foundation** classification (`§ 509(a)(1)` / `§ 170(b)(1)(A)(vi)`), the Foundation also satisfies all 14 points of IRS religious substance so its Techno-Buddhist liturgy, Mahākāla Pecha canon, and sanctuaries enjoy full First Amendment and `IRC § 501(c)(3)` religious protection:
 
 | IRS Criterion | Sovereign Library Implementation | Source Anchor in Corpus |
 |---|---|---|
