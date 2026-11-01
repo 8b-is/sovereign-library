@@ -87,10 +87,21 @@ The shelf ships a zero-dependency, print-minimal Web Sanctuary (`Sumi-to-Kin × 
 
 ## the 501(c)(3) religious research, scientific & charitable foundation (`foundation/`)
 
-- [`foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md`](foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md) — 5-Phase IRS `§ 501(c)(3)` & `§ 509(a)(1)` Religious Research, Scientific & Charitable Foundation Architecture (`Treas. Reg. § 1.501(c)(3)-1(d)(5)` open-source CPU/ternary R&D + `Sovereign Commons Fellowship` general-income grants + 14-Point contemplative heritage).
-- [`foundation/ARTICLES_OF_INCORPORATION.md`](foundation/ARTICLES_OF_INCORPORATION.md) — Ready-to-file Articles of Incorporation for **The Sovereign Sanctuary of Techno-Buddhism, Inc.** (DBA **The 8B Omni-Zen Foundation**), naming **Alexandra Chenoweth (`*`)**, **Christopher Michael Chenoweth (`△`)**, and **Péter József Lódri (`oo`)** on the Initial Board of Custodians.
-- [`foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md`](foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md) — Corporate Bylaws, Book of Discipline, **Balanced Ternary `{-1, 0, +1}` Governance Charter**, and **IRS Form 1023 Appendix A Conflict of Interest & Recusal Policy**.
-- [`foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md`](foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md) — **Master Arm's-Length Open-Source R&D Sponsorship, Cost-Sharing & General-Income Fellowship Charter** between the Foundation and `8b-is LLC` / `Peter Lodri LLC` (`IRC § 4958` Rebuttable Presumption of Reasonableness & `Treas. Reg. § 1.501(c)(3)-1(d)(1)(ii)` Private-Benefit Safe Harbor).
+- [`foundation/README.md`](foundation/README.md) & [`foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md`](foundation/501C3_SOVEREIGN_SANCTUARY_BLUEPRINT.md) — End-to-End `IRC § 501(c)(3)` & `§ 509(a)(1)` Religious Research, Scientific & Charitable Foundation Master Blueprint (`wupz 0x4be7099467feda4a` · `45/45` verified seal).
+- **Print-Ready PDF Suite (`foundation/package/pdfs/`)**:
+  - [`00-Techno-Buddhism-Foundation-Master-Compendium.pdf`](foundation/package/pdfs/00-Techno-Buddhism-Foundation-Master-Compendium.pdf) (Complete 8-Part Print Compendium)
+  - [`00a-Executive-Master-Plan.pdf`](foundation/package/pdfs/00a-Executive-Master-Plan.pdf) (End-to-End 6-Phase Roadmap)
+  - [`01-Articles-of-Incorporation-501c3.pdf`](foundation/package/pdfs/01-Articles-of-Incorporation-501c3.pdf) & [`foundation/ARTICLES_OF_INCORPORATION.md`](foundation/ARTICLES_OF_INCORPORATION.md)
+  - [`02-Bylaws-Family-Plus-One-and-Safe-Harbor.pdf`](foundation/package/pdfs/02-Bylaws-Family-Plus-One-and-Safe-Harbor.pdf) & [`foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md`](foundation/BYLAWS_AND_TERNARY_GOVERNANCE_CHARTER.md)
+  - [`03-IRS-Form-1023-Narrative-and-Budget.pdf`](foundation/package/pdfs/03-IRS-Form-1023-Narrative-and-Budget.pdf) & [`foundation/legal/03-irs-form-1023-narrative.md`](foundation/legal/03-irs-form-1023-narrative.md)
+  - [`04-8b-is-LLC-Arms-Length-Open-Source-RD-Agreement.pdf`](foundation/package/pdfs/04-8b-is-LLC-Arms-Length-Open-Source-RD-Agreement.pdf) & [`foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md`](foundation/ARMS_LENGTH_8B_IS_LLC_AGREEMENT.md)
+  - [`05-Universal-Hearth-General-Income-and-Axiomquant-Charter.pdf`](foundation/package/pdfs/05-Universal-Hearth-General-Income-and-Axiomquant-Charter.pdf) & [`foundation/legal/05-general-income-hearth-charter.md`](foundation/legal/05-general-income-hearth-charter.md)
+  - [`06-Sovereign-Canon-Codex-Techno-Buddhism.pdf`](foundation/package/pdfs/06-Sovereign-Canon-Codex-Techno-Buddhism.pdf) & [`foundation/canon/sovereign-canon-codex.md`](foundation/canon/sovereign-canon-codex.md)
+  - [`07-Sovereign-Constellation-Portal-Print-Edition.pdf`](foundation/package/pdfs/07-Sovereign-Constellation-Portal-Print-Edition.pdf) & [`foundation/portal/index.html`](foundation/portal/index.html)
+- **Visual Diagrams & Verification (`foundation/package/assets/` & `foundation/scripts/`)**:
+  - [`governance-mandala-family-plus-one.svg`](foundation/package/assets/governance-mandala-family-plus-one.svg) / [`.png`](foundation/package/assets/governance-mandala-family-plus-one.png)
+  - [`four-fold-isomorphism-trit-matrix.svg`](foundation/package/assets/four-fold-isomorphism-trit-matrix.svg) / [`.png`](foundation/package/assets/four-fold-isomorphism-trit-matrix.png)
+  - [`foundation/scripts/verify-foundation.py`](foundation/scripts/verify-foundation.py) & [`foundation/FOUNDATION_SEAL_RECEIPT.json`](foundation/FOUNDATION_SEAL_RECEIPT.json) (`45/45` checks, SHA-256 `84c31e30836817fe277cd085ff5c1d3d3181b50cb9a6fa50d7953ae6e4b2c57c`).
 
 ## the colophon
 
