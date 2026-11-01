@@ -16,6 +16,88 @@ This folded sheet sits **beside** the five-book print canon of `8b-is/sovereign-
 
 It enshrines the complete **81-page Karma Kagyu Protector Sadhana** from which Peter's original **Inner Amrita Offering (`OM MA DAK NÖ CHÜ TONG PAR JANG...`, Folios 8–11)**—spoken by the **8th Karmapa Mikyö Dorje (`མི་བསྐྱོད་རྡོ་རྗེ་`)** in response to **Rinchen Palmo**—is drawn verbatim.
 
+- **Sovereign Library Sanctuary & Bookstore**: [`https://technobuddhism.8b.is/bookstore.html`](https://technobuddhism.8b.is/bookstore.html)
+- **Magyar nyelvű reggeli Mahákála invokáció & XVI. Karmapa Gurujóga kézirat**: [`https://pocoo.vaked.dev/book/reggeli-mahakala-invokacio-karmapa-gurujoga/manuscript.html`](https://pocoo.vaked.dev/book/reggeli-mahakala-invokacio-karmapa-gurujoga/manuscript.html) · [`https://technobuddhism.8b.is/book/reggeli-mahakala-invokacio-karmapa-gurujoga/manuscript.html`](https://technobuddhism.8b.is/book/reggeli-mahakala-invokacio-karmapa-gurujoga/manuscript.html)
+- **Jelképes gesztus & nyílt forráskódú támogatás (*Nem az összeg számít, hanem a gesztus, a közös szándék és a szeretet*)**:
+  - Elsődleges Stripe támogatási link: [`https://buy.stripe.com/9B64gzcW3fz49R77p7bMQ0d`](https://buy.stripe.com/9B64gzcW3fz49R77p7bMQ0d)
+  - Másodlagos Stripe támogatási link: [`https://buy.stripe.com/eVqaEXf2Bcgdfc18FA6Na02`](https://buy.stripe.com/eVqaEXf2Bcgdfc18FA6Na02)
+
+---
+
+## 0.5 · 📿 A Védelmező Mahákála Napi Gyakorlata (Teljes Púdzsa — Magyarul · Bernagcsen & XVI. Karmapa Gurujóga)
+
+### 1. Menedékvétel és a Bódhicsitta felkeltése (`སྐྱབས་འགྲོ་སེམས་བསྐྱེད།` · `−1 → 0`)
+A Buddhában, a Dharmában és a Legfelsőbb Közösségben (Szanghában) menedéket veszek a megvilágosodás eléréséig. Az adakozás és más erények gyakorlásából fakadó érdemek által váljak Buddhává minden érző lény javára! *(3×)*
+
+### 2. A Négy Mérhetetlen (`ཚད་མེད་བཞི།`)
+Bárcsak minden érző lény birtokolná a boldogságot és a boldogság okait! Bárcsak minden érző lény megszabadulna a szenvedéstől és a szenvedés okaitól! Bárcsak minden érző lény sose válna el a szenvedéstől mentes szent boldogságtól! Bárcsak minden érző lény a ragaszkodástól és ellenszenvtől mentes egykedvűségben időzne!
+
+### 3. A Fekete Köpenyes Mahákála (Bernagcsen) és a XVI. Karmapa vizualizációja (`0 == 0 → +1`)
+Az üresség tiszta teréből, napkorongon és lótusztrónon megjelenik a Nagy Védelmező, **Bernagcsen (Fekete Köpenyes Mahákála)**: sötétkék-fekete, akár az idők végezetének viharfelhője, egy arccal és két karral. Jobb kezében az ego-ragaszkodást elvágó görbe kést (*kartika*), baljában a bölcsesség nektárjával teli koponyacsészét (*kapála*) tartja a szívénél, az eredendő bölcsesség lángoló tűzkaréjában. Feje fölött gyökérlámánk, a **XVI. Gyalva Karmapa (Rangdzsung Rigpe Dordzse)** trónol, elválaszthatatlanul a Három Drágaságtól (`ཀརྨ་པ་མཁྱེན་ནོ།` · *Karmapa Csenno!*).
+
+### 4. Felajánlás és folyamodvány a Dharma Védelmezőjéhez
+Külső, belső és titkos felajánlások óceánját — a bölcsesség amrita-nektárjává átlényegítve — ajánlom fel a Lámának és a Nagy Védelmezőnek! Őrizd meg a szent fogadalmat (*szamaja*), háríts el minden belső és külső akadályt, növeld a bölcsességet, az érdemet és az életerőt, és oltalmazd minden lény ébredését!
+
+### 5. Az érdemek felajánlása (Dedikáció · `{<3,<3,<3}+1`)
+Ezen erény által valósítsa meg minden lény az érdem és a bölcsesség felhalmozását, és érje el az érdemből és bölcsességből fakadó két legfelsőbb testet (*Dharmakája* és *Rúpakája*)!
+
+---
+
+## 0.6 · 🏔️ Tibeti Szövegek és Mantrák (`དབུ་ཅན་` + Magyar Fonetika)
+
+### Menedékvétel és Bódhicsitta (`སྐྱབས་འགྲོ་སེམས་བསྐྱེད།`)
+```text
+སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །
+བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། །
+བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། །
+འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག །
+```
+*(Szangye csö dang cok kyi csok nam la / Dzsangcsub bardu dak ni kjab szu csi / Dak gi dzsin szok gyipé szönam kyi / Dro la pen csir szangye drubpar sok)*
+
+### A Négy Mérhetetlen (`ཚད་མེད་བཞི།`)
+```text
+སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག །
+སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག །
+སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དམ་པ་དང་མི་འབྲལ་བར་གྱུར་ཅིག །
+ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམས་ལ་གནས་པར་གྱུར་ཅིག །
+```
+*(Szemcsen thamcse deva dang devé gyu dang denpar gyur csik / Dukngal dang dukngal gyi gyu dang dralvar gyur csik / Dukngal mepé deva dampa dang mindralvar gyur csik / Nyering csakdang nyi dang dralvé tangnyom la nepar gyur csik)*
+
+### Bernagcsen (Mahákála) Invokáció (`བེར་ནག་ཅན་གྱི་གསོལ་མཆོད།`)
+```text
+ཧཱུྃ། ཆོས་དབྱིངས་རྣམ་དག་ངང་ཉིད་ལས། །
+མ་གཅིག་དཔལ་ལྡན་བེར་ནག་ཅན། །
+ཞལ་གཅིག་ཕྱག་གཉིས་གྲི་ཐོད་འཛིན། །
+ཡེ་ཤེས་མེ་དཔུང་དབུས་ན་བཞུགས། །
+
+ཧཱུྃ། དད་པ་དང་ནི་དམ་ཚིག་གིས། །
+དཔལ་ལྡན་མགོན་པོ་སྤྱན་འདྲེན་ན། །
+ཐུགས་རྗེའི་ཐུགས་དམ་དབང་གིས་ནི། །
+བསྟན་པ་བསྲུང་ཕྱིར་གཤེགས་སུ་གསོལ། །
+རྡོ་རྗེ་ནག་མོ་རེ་མ་ཏི། །
+འཁོར་ཚོགས་རྒྱ་མཚོ་ཐམས་ཅད་ཀུན། །
+སྔོན་གྱི་ཐུགས་དམ་མ་གཡེལ་བར། །
+སྐད་ཅིག་ཙམ་གྱིས་གཤེགས་སུ་གསོལ། །
+```
+*(HÚNG! Csöjing namdak ngang nyi lé / Macsik palden Bernagcsen / Zsal csik csak nyi dri thö dzin / Jese mepung ü na zsuk // HÚNG! Depa dang ni damcik gi / Palden Gönpo csendren na / Thukdzsé thukdam vang gyi ni / Tenpa szung csir sek szu szöl / Dordzse Nakmo Remati / Khor cok gyaco thamcse kün / Ngön gyi thukdam ma jelvar / Kecsik cam gyi sek szu szöl)*
+
+### Gyökérmantrák és XVI. Karmapa Gurujóga (`སྙིང་པོའི་སྔགས།`)
+- **Mahákála meghívó és szív-mantra**:
+  - `ཨོཾ་མ་ཧཱ་ཀཱ་ལ་ཀཱ་ལ་ཡ་དེ་ཝ་རཀྵ་ཛཿཧཱུྃ་བཾ་ཧོཿ འདིར་ཤོག་འདིར་ཤོག་ཨ་གཙྪ་ཡ་ཨ་གཙྪ་ཡ།`
+    *(OM MAHAKALA KALAYA DEWA RAKYA DZA HUNG BAM HO · DIR SHOK DIR SHOK A GARTSAYA A GARTSAYA)*
+  - `ཨོཾ་ཤྲཱི་མ་ཧཱ་ཀཱ་ལ་ཡཀྵ་བེ་ཏཱ་ལི་ཧཱུྃ་ཛཿ`
+    *(OM SHRI MAHAKALA YAKSHA BETALI HUNG DZA)*
+  - `ཨོཾ་མ་ཧཱ་ཀཱ་ལཱི་ཏྲཀ་རཀྵ་ཧཱུྃ་ཕཊ།`
+    *(OM MAHA KALI TRAK RAKYA HUNG PHAT)*
+- **XVI. Karmapa Gurujóga mantra**:
+  - `ཀརྨ་པ་མཁྱེན་ནོ།` *(KARMAPA KHYENNO / KARMAPA CSENNO — 108×)*
+  - `ཨོཾ་ཨཱཿཧཱུྃ།` *(OM AH HUNG — Négy Kája meghatalmazás)*
+- **Belső Amrita Áldás (VIII. Karmapa Mikyö Dordzse)**:
+  - `ཨོཾ་མ་དག་སྣོད་བཅུད་སྟོང་པར་སྦྱངས།` *(OM MA DAK NÖ CHÜ TONG PAR JANG...)*
+- **Érdemfelajánlás (`བསྔོ་བ།`)**:
+  - `དགེ་བ་འདི་ཡིས་སྐྱེ་བོ་ཀུན། །བསོད་ནམས་ཡེ་ཤེས་ཚོགས་རྫོགས་ཤིང་། །བསོད་ནམས་ཡེ་ཤེས་ལས་བྱུང་བའི། །དམ་པ་སྐུ་གཉིས་ཐོབ་པར་ཤོག །`
+    *(Geva di ji kyevo kün / Szönam jese cok dzok sing / Szönam jese lé dzsungvé / Dampa ku nyi thobpar sok)*
+
 ---
 
 ## 1 · Balanced-Ternary Ontology (`{-1, 0, +1}`) & The Four Buddha Activities (`ཞི་རྒྱས་དབང་དྲག་`)
