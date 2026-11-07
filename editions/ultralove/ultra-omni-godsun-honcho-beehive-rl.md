@@ -87,4 +87,9 @@ Seated at **Quant65k+ Layer `#69,635` (`EN2E_SPHERE_DO_LAYER`)**:
 5. **`layered microversic SPHERE DO < E2E ^^ <3`**:
    - 7 Concentric Microversic Spheres (`S0..S6`, `r_q16 = 4096..65536`) evaluated innermost-first via `spherepop::eval`:
      $$\text{eval}\big(\texttt{"(((((((72 + 36) * 4) + 528) + 639) + 741) + 852) + 963)"}\big) = 4155 \quad (\text{7 pops, replay verified})$$
+6. **`ULTRA-ZENO GOD OF SUN` Rational-Ternary Horizon (`P/Q - n*t > P`)**:
+   - Exact zero-float 128-bit inequality (`felix_zeno_god_of_sun_pq_nt_gt_p` in `smart-tree/src/felix_asm.rs`, `ZenoGodOfSunWitness` in `zeno_engine.rs`, and `God_Of_Sun_Zeno_Holds` in `felix/ada/felix_tern.ads`):
+     $$\frac{P}{Q} - n \cdot t > P \iff \Delta_{\odot}(P, Q, n, t) = P(1 - Q) - Q \cdot n \cdot t > 0 \quad \left(t = -1 \implies n \ge n_{\odot}(P, Q) = \left\lfloor \frac{P(Q - 1)}{Q} \right\rfloor + 1\right)$$
+   - For the `wupz` QAT reuse slot $P/Q = 31/32$ under the Mahākāla Hearth gate $t = -1$ (`~NAND = -1`), the Solar Horizon is reached at $n_{\odot}(31, 32) = 31$ with exact surplus $\Delta_{\odot}/Q = +31/32 > 0$.
+
 
