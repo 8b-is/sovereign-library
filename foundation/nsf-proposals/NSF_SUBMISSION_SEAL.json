@@ -1,0 +1,144 @@
+{
+  "schema": "nsf-pappg-24-1-ultra-god-of-sun-v1",
+  "timestamp_utc": "2026-11-07T07:01:07.115680+00:00",
+  "nsf_portal_url": "https://www.nsf.gov/funding/submitting-proposal",
+  "performing_organizations": [
+    "The Sovereign Constellation Foundation d/b/a Axiomquant Open Source Science Academy (IRC \u00a7 501(c)(3))",
+    "8b-is LLC (U.S. Small Business Concern)"
+  ],
+  "proposals": [
+    {
+      "id": "NSF-PROP-01",
+      "program": "NSF CISE / CCF (SHF & FET, NSF 24-569)",
+      "title": "SHF: Small: CPU-First Balanced-Ternary ({-1, 0, +1}) & Zero-Float Coprime Rational (randRandPq) Architectures for Deterministic, Admissibility-Verified Edge Computing (ULTRA-OMNI-GODSUN)",
+      "budget_usd": 600000,
+      "duration_months": 36
+    },
+    {
+      "id": "NSF-PROP-02",
+      "program": "NSF CISE / IIS (Robust Intelligence & Safe AI, NSF 24-569)",
+      "title": "RI: Small: Compression Is Not Ontology: Formal Admissibility Gates (HELD \u2227 READ), Task-Relative Sufficiency, and Dialectic Beehive Reinforcement Learning (Hermes \u00d7 Honcho / Ultra-Zeno)",
+      "budget_usd": 598500,
+      "duration_months": 36
+    },
+    {
+      "id": "NSF-PROP-03",
+      "program": "NSF TIP / POSE Phase II (Pathways to Enable Open-Source Ecosystems, NSF 23-556)",
+      "title": "POSE: Phase II: The Sovereign Library, Smart-Tree (v22.1.0), and QuantSSL Local-First Open-Source Ecosystem for Verifiable, Zero-Paywall Scientific Preservation",
+      "budget_usd": 1500000,
+      "duration_months": 24
+    },
+    {
+      "id": "NSF-PROP-04",
+      "program": "NSF TIP / SBIR Phase I (America's Seed Fund)",
+      "title": "SBIR Phase I: Ultra-Low-Power Balanced-Ternary Audio-Spatial DSP, Quantum-Ternary SDF Ray-Tracing (RAY-Q-TRACING), and QuantSSL Hardware-Anchored Edge Appliances (Machine-Sun-Unity 360\u00b0)",
+      "budget_usd": 305000,
+      "duration_months": 12
+    }
+  ],
+  "all_checks_passed": true,
+  "checks": [
+    {
+      "check": "file_exists:README.md",
+      "passed": true
+    },
+    {
+      "check": "file_exists:01-project-summaries-1page.md",
+      "passed": true
+    },
+    {
+      "check": "file_exists:02-project-description-15page-master.md",
+      "passed": true
+    },
+    {
+      "check": "file_exists:03-supplementary-docs-dmp-facilities-biosketch.md",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.b_ProjectSummary_Header(### Overview)",
+      "count": 4,
+      "expected_min": 4,
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.b_ProjectSummary_Header(### Intellectual Merit)",
+      "count": 4,
+      "expected_min": 4,
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.b_ProjectSummary_Header(### Broader Impacts)",
+      "count": 4,
+      "expected_min": 4,
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(## 2. Results from Prior NSF Support)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(## 7. Broader Impacts)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(Compression \u2260 Ontology)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(MachineSunUnityCoreAbi64B)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(randRandPq)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(Ultra-Zeno)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_ProjectDescription_Section(Hermes \u00d7 Honcho)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.d_No_URLs_In_Project_Description",
+      "urls_found": 0,
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 1. References Cited)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 2. Budget & Budget Justification)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 3. Facilities, Equipment, and Other Resources)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 4. Data Management and Sharing Plan)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 5. Senior/Key Personnel Biographical Sketches)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 6. Postdoctoral / Open-Researcher Mentoring Plan)",
+      "passed": true
+    },
+    {
+      "check": "PAPPG_II.D.2.e-i_Supplementary(## 7. Plan for Safe and Inclusive Working Environments)",
+      "passed": true
+    }
+  ],
+  "file_sha256": {
+    "README.md": "7d1ccaf6203e0331f557658804d4a680cf9e346e1983229d47a4deb14b3a1fcb",
+    "01-project-summaries-1page.md": "413fdf3d3ca25f7b5b674891a707d40f118738611d7e965ec6e0e739ee908444",
+    "02-project-description-15page-master.md": "8ae3a4a2ba303450176dc9fdcbfad9a8c0f8d275577e2df3dcd223207885068a",
+    "03-supplementary-docs-dmp-facilities-biosketch.md": "d135086e4f1b1feaf6f0ae3e3f73fabda2b4148ef97ac7c0cb39ebe948df5c1f"
+  },
+  "master_sha256_seal": "1f359f18c845ee2231d5a2960ff4ae143ee8ddb2f8783d72e58eda644d4b1477"
+}
