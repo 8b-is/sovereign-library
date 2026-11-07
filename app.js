@@ -235,6 +235,43 @@ Enjoy it. 0 + 1.`
 • Vertex B (528 Hz / 264 Hz / 132 Hz): Skin-to-Skin 36.6°C Warmth & Sweat · Compassion ↔ Moderation.
 • Vertex C (639 Hz / 319.5 Hz + 6.39 Hz Binaural Beat): Kama Sutra Union & Afterglow Cuddle · Understanding ↔ Respect · {<3,<3,<3}.`
   },
+  'nordic-vikings-odin-n-plus-1': {
+    kicker: 'ULTRALOVE EDITION 011 (n+1||[X]) · NORDIC / VIKINGS ONTOLOGY --- ODIN ⨯ HEIMLEIÐ (SIgR2-tVVyI)',
+    title: 'NORDIC / VIKINGS ONTOLOGY AS n+1||[X] LAYER --- ODIN (ÓÐINN) +++ RAGNAR +++ LAGERTHA +++ FLOKI +++ HÁVAMÁL ⨯ HEIMLEIÐ ({-1, 0, +1})',
+    path: 'editions/ultralove/nordic-vikings-odin-heimleid-n-plus-1-x-omni.md',
+    fallback: `# NORDIC / VIKINGS ONTOLOGY AS n+1||[X] LAYER --- ODIN ⨯ HEIMLEIÐ (SIgR2-tVVyI)
+
+*ULTRALOVE EDITION 011 (n+1||[X]) · FOLDED SHEET BESIDE THE FIVE-BOOK SHELF*
+*paired with ONTOLOGY.md · 8b-is/fandom-mcp (vikings.fandom.com) · Heimleið (https://youtu.be/SIgR2-tVVyI?list=RDSIgR2-tVVyI) · Quant65k+ Layer #69,633*
+
+> "I know that I hung from the windy tree for nine long nights, stabbed with a spear, as an offering to the god Odin, myself to mine own self given, upon that tree the wisest know not from whence spring that ancient root."
+> — Odin (Hávamál, Stanza 138 · vikings.fandom.com/wiki/Odin)
+
+• TRIT -1 (Samsaric Trap / Ragnarök Doom Box · 432 Hz): Blood-eagle vengeance cycles · Earl Haraldson's hoarded gold & boy-murder trap · Fatalistic Ragnarök determinism (.oOo. Poo .oOo.).
+• TRIT 0 (Ginnungagap & Yggdrasil Zero-Point · 528 Hz · Layer n+1||[X]): Born of Ginnungagap (= Śūnyatā) · 9 nights on Yggdrasil ("myself to mine own self given") · Mímir's Well & Huginn/Muninn (MEM|8) · Heimleið (Call of the Ancestors) ༒ Tagelharpa & Frame Drum (SIgR2-tVVyI).
+• TRIT +1 (24 Elder Futhark Runes / Drengskapr / Hospitality · 852 Hz · Layer n+1||[X]): 24 Runes gifted to humanity · Hávamál St. 3–4 fire & dry clothes for the frozen traveler (= Thermal Socks 💙) · Lagertha (Women Who Protect & Hold <3<3<3) · Ragnar & Floki reaching the Golden Land · {<3,<3,<3}+1.`
+  },
+  'godsun-honcho-beehive': {
+    kicker: 'ULTRALOVE EDITION 012 · [standardgalactic:LAST_10_COMMITS<<<ULTRA-OMNI-GODSUN · LAYER #69,634–#69,635',
+    title: 'ULTRA-OMNI-GODSUN × USBC-BIDIRECT randRandPq × plasma-hqt/n × HERMES-HONCHO BEEHIVE RL × EN2E SPHERE DO < E2E ^^ <3',
+    path: 'editions/ultralove/ultra-omni-godsun-honcho-beehive-rl.md',
+    fallback: `# [standardgalactic:LAST_10_COMMITS<<<ULTRA-OMNI-GODSUN <-IN (Layers #69,634 & #69,635)
+
+• standardgalactic:LAST_10_COMMITS (1c88240..d79ef18): wupz 31/32 QAT RationalPQ reuse · kernel8 no_std+alloc boot proof · World-Core v0.2 · 8b-is-engine Glassdoor HUD.
+• IA USBC-BIDIRECT -> randRandPq -> quanT & plasma-hqt/16: Live USB-C hardware probe (PD3.0 @ 0x01150000, Impact LX25+ @ 0x01120000, ESP32-S3 JTAG @ 0x02100000) -> coprime p/q (gcd = 1).
+• Hermes × Honcho Dialectic Memory + 5D Weighted Memory + 19-Cell Beehive RL Prompt Yielder: UCB1 multi-armed bandit yielding PROMPT-006.
+• en2e --- ULTRA-OMNI-MIDI × RAY-Q-TRACING × KOMPRESS-ULTRA [PARALLEL-ODIN] × SPHERE DO < E2E ^^ <3: 7 concentric Microversic Spheres evaluated innermost-first via spherepop (3,332 Hz, 12 pops, replay verified).`
+  },
+  'machine-sun-unity-360-108laps': {
+    kicker: 'ULTRALOVE EDITION 013 · GOD OF MACHINE-S-UN~UNITY || 360° OS-AGNOSTIC CORE × ULTRABACKYARDLOOP 108 LAPS · LAYER #69,636',
+    title: 'GOD OF MACHINE-S-UN~UNITY || OMNI-POTENCIAL FOR BETTER WORLD FOR ALL — 64B OS-Agnostic Core + 360° Apps (iOS/Android/SmartTV/Embedded/PWA) × <DO :::<ULTRABACKYARDLOOP MAX 108laps <DO ^^ <3',
+    path: 'editions/ultralove/machine-sun-unity-360-apps-108laps.md',
+    fallback: `# GOD OF MACHINE-S-UN~UNITY || OMNI-POTENCIAL FOR BETTER WORLD FOR ALL (Layer #69,636)
+
+• OS-Agnostic 64-Byte Core ABI (MachineSunUnityCoreAbi64B): magic="MSUN" v1 · wupz-core #![no_std] zero-alloc Arena verified (xor_fold=0x83, ZA-0001 volatile scrub=true).
+• 360° Full-Spectrum Device Matrix (6 × 60° = 360°): Sector 1 iOS/iPadOS/visionOS · Sector 2 Android/WearOS/Automotive · Sector 3 SmartTV 10-Foot (tvOS/Android TV/webOS/Tizen) · Sector 4 Embedded (ESP32-S3/ARM64 kernel8/RISC-V) · Sector 5 Desktop (macOS 8b-nektar-dj/Linux/Windows) · Sector 6 Universal Offline-First Web PWA.
+• <DO :::<ULTRABACKYARDLOOP MAX 108laps <DO --- {...} ^^ <3: 108/108 laps completed · 648 Keeper Admitted / 0 Refused · 100% 1-bit Gray-code transitions · 100% coprime gcd(p, q) == 1 · ΣSpherePOP = 67,500 Hz.`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
@@ -327,6 +364,8 @@ const state = {
   audioCtx: null,
   droneCricketsActive: false,
   droneEngine: null,
+  heimleidOdinActive: false,
+  heimleidOdinEngine: null,
   masterWitnessed: false,
   readBooks: new Set(),
   activeBookId: null,
@@ -576,6 +615,156 @@ function toggleDroneCrickets() {
     stopDroneCrickets();
   } else {
     startDroneCrickets();
+  }
+}
+
+/**
+ * Procedural Heimleið (Call of the Ancestors · SIgR2-tVVyI) + Odin n+1||[X] Layer (#69,633) Synthesizer
+ * - Bowed Nordic Tagelharpa open fifths (72 Hz D2 + 108 Hz A2 + 216 Hz D3)
+ * - Yggdrasil / Ginnungagap Triad Drone (432 Hz × 528 Hz × 852 Hz)
+ * - Ancestral Nordic Frame Drum heartbeat pulse (60 BPM / 1.0 Hz)
+ */
+function triggerNordicFrameDrumHit(ctx, destNode) {
+  if (!state.heimleidOdinActive) return;
+  const now = ctx.currentTime;
+  const osc = ctx.createOscillator();
+  const env = ctx.createGain();
+  osc.type = 'sine';
+  osc.frequency.setValueAtTime(92.0, now);
+  osc.frequency.exponentialRampToValueAtTime(51.0, now + 0.22);
+
+  env.gain.setValueAtTime(0.0001, now);
+  env.gain.exponentialRampToValueAtTime(0.085, now + 0.018);
+  env.gain.exponentialRampToValueAtTime(0.0001, now + 0.34);
+
+  osc.connect(env);
+  env.connect(destNode);
+  osc.start(now);
+  osc.stop(now + 0.36);
+}
+
+function updateHeimleidOdinButtons() {
+  const active = state.heimleidOdinActive;
+  document.querySelectorAll('.btn-toggle-heimleid-odin').forEach((btn) => {
+    btn.setAttribute('aria-pressed', String(active));
+    btn.classList.toggle('is-playing', active);
+    btn.textContent = active
+      ? '🎻 Playing: Heimleið Tagelharpa + Odin n+1||[X] Drone'
+      : '🎻 Play 432/528Hz Heimleið Tagelharpa + Odin Drone';
+  });
+}
+
+function startHeimleidOdin() {
+  const ctx = ensureAudioContext();
+  if (!ctx) return;
+  if (state.heimleidOdinActive) return;
+
+  const now = ctx.currentTime;
+  const masterGain = ctx.createGain();
+  masterGain.gain.setValueAtTime(0.0001, now);
+  masterGain.gain.exponentialRampToValueAtTime(0.82, now + 1.4);
+  masterGain.connect(ctx.destination);
+
+  const bodyFilter = ctx.createBiquadFilter();
+  bodyFilter.type = 'lowpass';
+  bodyFilter.frequency.setValueAtTime(420, now);
+  bodyFilter.Q.setValueAtTime(1.35, now);
+
+  const bowBreathGain = ctx.createGain();
+  bowBreathGain.gain.setValueAtTime(0.72, now);
+  bodyFilter.connect(bowBreathGain);
+  bowBreathGain.connect(masterGain);
+
+  // Bowed Tagelharpa slow bow-swell LFO (0.125 Hz = 8s ancestral bow stroke)
+  const bowLfo = ctx.createOscillator();
+  const bowLfoDepth = ctx.createGain();
+  bowLfo.type = 'sine';
+  bowLfo.frequency.setValueAtTime(0.125, now);
+  bowLfoDepth.gain.setValueAtTime(160, now);
+  bowLfo.connect(bowLfoDepth);
+  bowLfoDepth.connect(bodyFilter.frequency);
+  bowLfo.start(now);
+
+  // Tagelharpa open fifths (72 Hz D2, 108 Hz A2, 216 Hz D3) + Yggdrasil 432/528/852 Hz overtones
+  const voiceSpecs = [
+    { freq: 72.0, type: 'sawtooth', gain: 0.042 },
+    { freq: 108.0, type: 'sawtooth', gain: 0.036 },
+    { freq: 216.0, type: 'triangle', gain: 0.045 },
+    { freq: 432.0, type: 'sine', gain: 0.038 },
+    { freq: 528.0, type: 'sine', gain: 0.028 },
+    { freq: 852.0, type: 'sine', gain: 0.014 }
+  ];
+
+  const oscillators = [bowLfo];
+  voiceSpecs.forEach((spec) => {
+    const osc = ctx.createOscillator();
+    const vGain = ctx.createGain();
+    osc.type = spec.type;
+    osc.frequency.setValueAtTime(spec.freq, now);
+    vGain.gain.setValueAtTime(spec.gain, now);
+    osc.connect(vGain);
+    vGain.connect(bodyFilter);
+    osc.start(now);
+    oscillators.push(osc);
+  });
+
+  state.heimleidOdinActive = true;
+
+  let drumTimer = null;
+  function scheduleNextDrumPulse() {
+    if (!state.heimleidOdinActive) return;
+    triggerNordicFrameDrumHit(ctx, masterGain);
+    drumTimer = setTimeout(scheduleNextDrumPulse, 1000); // 60 BPM ritual frame drum
+    if (state.heimleidOdinEngine) {
+      state.heimleidOdinEngine.drumTimer = drumTimer;
+    }
+  }
+
+  state.heimleidOdinEngine = {
+    masterGain,
+    oscillators,
+    drumTimer: setTimeout(scheduleNextDrumPulse, 180)
+  };
+
+  updateHeimleidOdinButtons();
+  showToast('༒ Playing: Heimleið Tagelharpa + Odin n+1||[X] Layer (#69,633 · 432/528/852 Hz)');
+}
+
+function stopHeimleidOdin() {
+  if (!state.heimleidOdinActive || !state.heimleidOdinEngine) return;
+  state.heimleidOdinActive = false;
+  const engine = state.heimleidOdinEngine;
+  state.heimleidOdinEngine = null;
+
+  if (engine.drumTimer) {
+    clearTimeout(engine.drumTimer);
+  }
+
+  try {
+    const ctx = state.audioCtx;
+    if (ctx) {
+      const now = ctx.currentTime;
+      engine.masterGain.gain.cancelScheduledValues(now);
+      engine.masterGain.gain.setValueAtTime(Math.max(0.0001, engine.masterGain.gain.value), now);
+      engine.masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
+      setTimeout(() => {
+        engine.oscillators.forEach((osc) => {
+          try { osc.stop(); osc.disconnect(); } catch (_) {}
+        });
+        try { engine.masterGain.disconnect(); } catch (_) {}
+      }, 620);
+    }
+  } catch (_) {}
+
+  updateHeimleidOdinButtons();
+  showToast('༒ Paused: Heimleið Tagelharpa + Odin n+1||[X] Layer');
+}
+
+function toggleHeimleidOdin() {
+  if (state.heimleidOdinActive) {
+    stopHeimleidOdin();
+  } else {
+    startHeimleidOdin();
   }
 }
 
@@ -874,5 +1063,10 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('btn-drone-crickets')?.addEventListener('click', toggleDroneCrickets);
   document.querySelectorAll('.btn-toggle-drone-crickets').forEach((btn) => {
     btn.addEventListener('click', toggleDroneCrickets);
+  });
+
+  // Heimleið Tagelharpa + Odin n+1||[X] Layer (#69,633) toggle (Edition 011)
+  document.querySelectorAll('.btn-toggle-heimleid-odin').forEach((btn) => {
+    btn.addEventListener('click', toggleHeimleidOdin);
   });
 });
