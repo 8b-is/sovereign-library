@@ -99,124 +99,108 @@
     "usbc_endpoints": [
       {
         "name": "USB2.0 Hub",
-        "location_id_hex": "0x01100000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 1823,
-        "retain_count": 37,
-        "bidirectional_capable": true
-      },
-      {
-        "name": "PD3.0 USB-C Device",
-        "location_id_hex": "0x01150000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 1553,
-        "retain_count": 21,
-        "bidirectional_capable": true
-      },
-      {
-        "name": "Impact LX25+",
-        "location_id_hex": "0x01120000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 15,
-        "retain_count": 20,
-        "bidirectional_capable": true
-      },
-      {
-        "name": "USB3.0 Hub",
-        "location_id_hex": "0x01200000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 9628,
-        "retain_count": 35,
+        "location_id_hex": "0x02100000",
+        "bus_controller": "AppleT6000USBXHCI@02000000",
+        "busy_ms": 772,
+        "retain_count": 38,
         "bidirectional_capable": true
       },
       {
         "name": "AX88179A",
-        "location_id_hex": "0x01210000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 4468,
-        "retain_count": 33,
+        "location_id_hex": "0x02110000",
+        "bus_controller": "AppleT6000USBXHCI@02000000",
+        "busy_ms": 300,
+        "retain_count": 32,
         "bidirectional_capable": true
       },
       {
         "name": "NS1081",
-        "location_id_hex": "0x01240000",
-        "bus_controller": "AppleT6000USBXHCI@01000000",
-        "busy_ms": 5034,
-        "retain_count": 27,
+        "location_id_hex": "0x02140000",
+        "bus_controller": "AppleT6000USBXHCI@02000000",
+        "busy_ms": 544,
+        "retain_count": 26,
         "bidirectional_capable": true
       },
       {
-        "name": "USB JTAG/serial debug unit",
-        "location_id_hex": "0x02100000",
+        "name": "PD3.0 USB-C Device",
+        "location_id_hex": "0x02150000",
         "bus_controller": "AppleT6000USBXHCI@02000000",
-        "busy_ms": 5101,
-        "retain_count": 32,
+        "busy_ms": 70,
+        "retain_count": 23,
+        "bidirectional_capable": true
+      },
+      {
+        "name": "USB3.0 Hub",
+        "location_id_hex": "0x02200000",
+        "bus_controller": "AppleT6000USBXHCI@02000000",
+        "busy_ms": 120,
+        "retain_count": 33,
         "bidirectional_capable": true
       }
     ],
-    "numerator_p": 12417267066564106687,
-    "denominator_q": 7920912003699550503,
+    "numerator_p": 1441199808135561949,
+    "denominator_q": 1192018404401969055,
     "gcd_verified_one": true,
-    "rational_pq_str": "12417267066564106687/7920912003699550503",
-    "qat_31_32_reuse_slot": 29,
+    "rational_pq_str": "1441199808135561949/1192018404401969055",
+    "qat_31_32_reuse_slot": 1,
     "quant_trits_27": [
-      1,
-      1,
+      0,
       0,
       -1,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
       -1,
       -1,
-      0,
       1,
+      -1,
       1,
+      -1,
       1,
-      1,
+      -1,
       0,
       -1,
       1,
       -1,
-      1
+      1,
+      1,
+      -1,
+      -1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      -1,
+      0
     ],
-    "quanttern_4trit_tag": "qt:5a",
+    "quanttern_4trit_tag": "qt:45",
     "plasma_hqt_dimension_n": 16,
     "plasma_hqt_n_vector_q16": [
-      32996,
-      31270,
-      16013,
-      -12843,
-      16121,
-      20992,
-      772,
-      19270,
-      55894,
-      896,
-      3626,
-      12421,
-      7466,
-      1222,
-      25620,
-      -40348
+      13783,
+      28235,
+      -7204,
+      -3378,
+      -59720,
+      3451,
+      -43079,
+      15491,
+      -51733,
+      49195,
+      -57519,
+      10249,
+      -8125,
+      11854,
+      -25817,
+      21428
     ],
-    "sha256_seed_hex": "bfd9b5879bfe52ac25a9a32580bbeced6c832cfa899b32b1fab74920dd6c713c"
+    "sha256_seed_hex": "dc0248f6962b00149f771b586ce68a107df0961f50eea0f5502d8f5f218cef38"
   },
   "prompt_library_rl": {
     "total_prompts": 6,
     "rl_episodes_executed": 64,
-    "yielded_top_prompt_id": "PROMPT-006",
-    "yielded_prompt_string": "Sovereign Library 5/5 Print Canon Cap (HELD ∧ READ NAND gate) · In Awe to Women Who Protect and Hold <3<3<3 · Momma Bear Omni Covenant",
-    "mutated_next_gen_prompt": "[RL-YIELD::PROMPT-006::p/q=12417267066564106687/7920912003699550503::qt=qt:5a] Sovereign Library 5/5 Print Canon Cap (HELD ∧ READ NAND gate) · In Awe to Women Who Protect and Hold <3<3<3 · Momma Bear Omni Covenant >>> SYNTHESIZE(plasma-hqt/16, Hermes-Honcho-Dialectic, Beehive-Waggle-RL, Layer #69634)",
-    "average_reward_q16": 72754,
+    "yielded_top_prompt_id": "PROMPT-005",
+    "yielded_prompt_string": "3-AlexiAI + smart-tree AST verified zero-float rational p/q step + wupz 31/32 QAT RationalPQ reuse + CT-000 admissibility witness",
+    "mutated_next_gen_prompt": "[RL-YIELD::PROMPT-005::p/q=1441199808135561949/1192018404401969055::qt=qt:45] 3-AlexiAI + smart-tree AST verified zero-float rational p/q step + wupz 31/32 QAT RationalPQ reuse + CT-000 admissibility witness >>> SYNTHESIZE(plasma-hqt/16, Hermes-Honcho-Dialectic, Beehive-Waggle-RL, Layer #69634)",
+    "average_reward_q16": 72187,
     "policy_entropy_bits_q16": 145384,
     "prompts": [
       {
@@ -231,11 +215,11 @@
           "usbc-bidirect"
         ],
         "rl_pulls": 11,
-        "reward_numerator_p": 776360,
+        "reward_numerator_p": 766312,
         "reward_denominator_q": 720896,
-        "q_value_q16": 70578,
-        "ucb1_score_q16": 105487,
-        "policy_trit": 1
+        "q_value_q16": 69666,
+        "ucb1_score_q16": 104575,
+        "policy_trit": -1
       },
       {
         "id": "PROMPT-002",
@@ -249,10 +233,10 @@
           "multi-d-memory"
         ],
         "rl_pulls": 12,
-        "reward_numerator_p": 879856,
+        "reward_numerator_p": 867008,
         "reward_denominator_q": 786432,
-        "q_value_q16": 73320,
-        "ucb1_score_q16": 105320,
+        "q_value_q16": 72250,
+        "ucb1_score_q16": 104250,
         "policy_trit": 1
       },
       {
@@ -267,11 +251,11 @@
           "quant-music-signs"
         ],
         "rl_pulls": 11,
-        "reward_numerator_p": 793491,
+        "reward_numerator_p": 784001,
         "reward_denominator_q": 720896,
-        "q_value_q16": 72133,
-        "ucb1_score_q16": 107042,
-        "policy_trit": 1
+        "q_value_q16": 71275,
+        "ucb1_score_q16": 106184,
+        "policy_trit": -1
       },
       {
         "id": "PROMPT-004",
@@ -284,12 +268,12 @@
           "glassdoor",
           "world-core"
         ],
-        "rl_pulls": 12,
-        "reward_numerator_p": 868478,
-        "reward_denominator_q": 786432,
-        "q_value_q16": 72375,
-        "ucb1_score_q16": 107601,
-        "policy_trit": -1
+        "rl_pulls": 11,
+        "reward_numerator_p": 784721,
+        "reward_denominator_q": 720896,
+        "q_value_q16": 71338,
+        "ucb1_score_q16": 106247,
+        "policy_trit": 1
       },
       {
         "id": "PROMPT-005",
@@ -302,11 +286,11 @@
           "ct-000",
           "smart-tree"
         ],
-        "rl_pulls": 12,
-        "reward_numerator_p": 884143,
-        "reward_denominator_q": 786432,
-        "q_value_q16": 73678,
-        "ucb1_score_q16": 105678,
+        "rl_pulls": 13,
+        "reward_numerator_p": 972355,
+        "reward_denominator_q": 851968,
+        "q_value_q16": 74796,
+        "ucb1_score_q16": 106814,
         "policy_trit": -1
       },
       {
@@ -320,11 +304,11 @@
           "nand-gate"
         ],
         "rl_pulls": 12,
-        "reward_numerator_p": 893352,
+        "reward_numerator_p": 885615,
         "reward_denominator_q": 786432,
-        "q_value_q16": 74445,
-        "ucb1_score_q16": 106445,
-        "policy_trit": 1
+        "q_value_q16": 73802,
+        "ucb1_score_q16": 105802,
+        "policy_trit": -1
       }
     ]
   },
@@ -382,7 +366,7 @@
         "trit_polarity": 1
       }
     ],
-    "prompt_time_injection_block": "<honcho_dialectic_context peer=\"8b-is::peterlodri\" layer=\"69634\" pq_seed=\"12417267066564106687/7920912003699550503\" qt=\"qt:5a\">\n  • User Model: Sovereign Architect favoring telegraphic cross-domain synthesis, zero-float rational p/q arithmetic, balanced ternary {-1,0,+1}, Desert Psy Rock (Kyuss/Plasma), Nordic Odin n+1||[X], and <3<3<3 Sanctuary ethics.\n  • Active Synthesis: [standardgalactic:LAST_10_COMMITS<<<ULTRA-OMNI-GODSUN wired with USBC-BIDIRECT randRandPq + plasma-hqt/16 + Beehive RL Prompt Yielder.\n  • Top Yielded RL Prompt: PROMPT-006\n</honcho_dialectic_context>"
+    "prompt_time_injection_block": "<honcho_dialectic_context peer=\"8b-is::peterlodri\" layer=\"69634\" pq_seed=\"1441199808135561949/1192018404401969055\" qt=\"qt:45\">\n  • User Model: Sovereign Architect favoring telegraphic cross-domain synthesis, zero-float rational p/q arithmetic, balanced ternary {-1,0,+1}, Desert Psy Rock (Kyuss/Plasma), Nordic Odin n+1||[X], and <3<3<3 Sanctuary ethics.\n  • Active Synthesis: [standardgalactic:LAST_10_COMMITS<<<ULTRA-OMNI-GODSUN wired with USBC-BIDIRECT randRandPq + plasma-hqt/16 + Beehive RL Prompt Yielder.\n  • Top Yielded RL Prompt: PROMPT-005\n</honcho_dialectic_context>"
   },
   "multi_d_memory_tensor_dims": [
     8,
@@ -405,11 +389,11 @@
       "engram_key": "PD3.0+LX25+JTAG->randRandPq",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 86400,
-      "weight_q16": 98168,
+      "weight_q16": 96026,
       "rl_reinforcements": 97,
       "rational_pq_anchor": [
-        12417267066564107119,
-        7920912003699551031
+        1441199808135562381,
+        1192018404401969583
       ]
     },
     {
@@ -425,11 +409,11 @@
       "engram_key": "standardgalactic:LAST_10_COMMITS",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 172800,
-      "weight_q16": 100366,
+      "weight_q16": 97950,
       "rl_reinforcements": 97,
       "rational_pq_anchor": [
-        12417267066564107551,
-        7920912003699551559
+        1441199808135562813,
+        1192018404401970111
       ]
     },
     {
@@ -445,11 +429,11 @@
       "engram_key": "plasma-hqt/n::27-trit-lattice",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 259200,
-      "weight_q16": 102161,
+      "weight_q16": 100098,
       "rl_reinforcements": 97,
       "rational_pq_anchor": [
-        12417267066564107983,
-        7920912003699552087
+        1441199808135563245,
+        1192018404401970639
       ]
     },
     {
@@ -465,11 +449,11 @@
       "engram_key": "Kyuss-72Hz-Plasma-Echo-ITD30",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 345600,
-      "weight_q16": 93800,
+      "weight_q16": 92742,
       "rl_reinforcements": 65,
       "rational_pq_anchor": [
-        2483453413312821683,
-        1584182400739910523
+        1441199808135563677,
+        1192018404401971167
       ]
     },
     {
@@ -485,11 +469,11 @@
       "engram_key": "Etemenanki-7-Terrace-Ziggurat",
       "emotional_trit": 0,
       "temporal_half_life_ticks": 432000,
-      "weight_q16": 95560,
+      "weight_q16": 94643,
       "rl_reinforcements": 65,
       "rational_pq_anchor": [
-        12417267066564108847,
-        7920912003699553143
+        1441199808135564109,
+        1192018404401971695
       ]
     },
     {
@@ -505,11 +489,11 @@
       "engram_key": "GAIA-8Layer-Keeper-M=fold(H)",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 518400,
-      "weight_q16": 97914,
+      "weight_q16": 96773,
       "rl_reinforcements": 65,
       "rational_pq_anchor": [
-        12417267066564109279,
-        7920912003699553671
+        1441199808135564541,
+        1192018404401972223
       ]
     },
     {
@@ -525,11 +509,11 @@
       "engram_key": "DualPeer-Thesis-Antithesis-Synthesis",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 604800,
-      "weight_q16": 99521,
+      "weight_q16": 98179,
       "rl_reinforcements": 65,
       "rational_pq_anchor": [
-        12417267066564109711,
-        7920912003699554199
+        1441199808135564973,
+        1192018404401972751
       ]
     },
     {
@@ -545,11 +529,11 @@
       "engram_key": "Layer-69634-Odin-n+1-Godsun",
       "emotional_trit": 1,
       "temporal_half_life_ticks": 999999,
-      "weight_q16": 101777,
+      "weight_q16": 100209,
       "rl_reinforcements": 65,
       "rational_pq_anchor": [
-        12417267066564110143,
-        7920912003699554727
+        1441199808135565405,
+        1192018404401973279
       ]
     }
   ],
@@ -567,10 +551,10 @@
         2,
         0
       ],
-      "nectar_reward_q16": 80089,
+      "nectar_reward_q16": 79687,
       "waggle_angle_deg": 0,
       "waggle_duration_ms": 108,
-      "state_trit": 0
+      "state_trit": -1
     },
     {
       "cell_id": 1,
@@ -585,10 +569,10 @@
         2,
         1
       ],
-      "nectar_reward_q16": 79955,
+      "nectar_reward_q16": 79645,
       "waggle_angle_deg": 1,
       "waggle_duration_ms": 132,
-      "state_trit": 0
+      "state_trit": 1
     },
     {
       "cell_id": 2,
@@ -603,10 +587,10 @@
         2,
         2
       ],
-      "nectar_reward_q16": 80189,
+      "nectar_reward_q16": 79682,
       "waggle_angle_deg": 2,
       "waggle_duration_ms": 156,
-      "state_trit": 1
+      "state_trit": -1
     },
     {
       "cell_id": 3,
@@ -621,10 +605,10 @@
         2,
         3
       ],
-      "nectar_reward_q16": 80099,
+      "nectar_reward_q16": 79789,
       "waggle_angle_deg": 3,
       "waggle_duration_ms": 180,
-      "state_trit": 0
+      "state_trit": 1
     },
     {
       "cell_id": 4,
@@ -639,10 +623,10 @@
         1,
         0
       ],
-      "nectar_reward_q16": 80341,
+      "nectar_reward_q16": 79559,
       "waggle_angle_deg": 4,
       "waggle_duration_ms": 204,
-      "state_trit": 1
+      "state_trit": -1
     },
     {
       "cell_id": 5,
@@ -657,7 +641,7 @@
         2,
         1
       ],
-      "nectar_reward_q16": 80197,
+      "nectar_reward_q16": 79627,
       "waggle_angle_deg": 5,
       "waggle_duration_ms": 228,
       "state_trit": 0
@@ -675,10 +659,10 @@
         2,
         2
       ],
-      "nectar_reward_q16": 80107,
+      "nectar_reward_q16": 79260,
       "waggle_angle_deg": 6,
       "waggle_duration_ms": 252,
-      "state_trit": 0
+      "state_trit": -1
     },
     {
       "cell_id": 7,
@@ -693,10 +677,10 @@
         2,
         3
       ],
-      "nectar_reward_q16": 80022,
+      "nectar_reward_q16": 79254,
       "waggle_angle_deg": 7,
       "waggle_duration_ms": 276,
-      "state_trit": 0
+      "state_trit": 1
     },
     {
       "cell_id": 8,
@@ -711,10 +695,10 @@
         2,
         0
       ],
-      "nectar_reward_q16": 79960,
+      "nectar_reward_q16": 79225,
       "waggle_angle_deg": 8,
       "waggle_duration_ms": 300,
-      "state_trit": 1
+      "state_trit": -1
     },
     {
       "cell_id": 9,
@@ -729,10 +713,10 @@
         2,
         1
       ],
-      "nectar_reward_q16": 79987,
+      "nectar_reward_q16": 79109,
       "waggle_angle_deg": 9,
       "waggle_duration_ms": 324,
-      "state_trit": -1
+      "state_trit": 1
     },
     {
       "cell_id": 10,
@@ -747,10 +731,10 @@
         2,
         2
       ],
-      "nectar_reward_q16": 80201,
+      "nectar_reward_q16": 79070,
       "waggle_angle_deg": 10,
       "waggle_duration_ms": 348,
-      "state_trit": -1
+      "state_trit": 1
     },
     {
       "cell_id": 11,
@@ -765,10 +749,10 @@
         2,
         3
       ],
-      "nectar_reward_q16": 79996,
+      "nectar_reward_q16": 78935,
       "waggle_angle_deg": 11,
       "waggle_duration_ms": 372,
-      "state_trit": 0
+      "state_trit": -1
     },
     {
       "cell_id": 12,
@@ -783,10 +767,10 @@
         1,
         0
       ],
-      "nectar_reward_q16": 80136,
+      "nectar_reward_q16": 79356,
       "waggle_angle_deg": 12,
       "waggle_duration_ms": 396,
-      "state_trit": 1
+      "state_trit": -1
     },
     {
       "cell_id": 13,
@@ -801,10 +785,10 @@
         2,
         1
       ],
-      "nectar_reward_q16": 80209,
+      "nectar_reward_q16": 79511,
       "waggle_angle_deg": 13,
       "waggle_duration_ms": 420,
-      "state_trit": 1
+      "state_trit": 0
     },
     {
       "cell_id": 14,
@@ -819,10 +803,10 @@
         2,
         2
       ],
-      "nectar_reward_q16": 80239,
+      "nectar_reward_q16": 79609,
       "waggle_angle_deg": 14,
       "waggle_duration_ms": 444,
-      "state_trit": 1
+      "state_trit": 0
     },
     {
       "cell_id": 15,
@@ -837,10 +821,10 @@
         2,
         3
       ],
-      "nectar_reward_q16": 80359,
+      "nectar_reward_q16": 79526,
       "waggle_angle_deg": 15,
       "waggle_duration_ms": 468,
-      "state_trit": 0
+      "state_trit": -1
     },
     {
       "cell_id": 16,
@@ -855,7 +839,7 @@
         2,
         0
       ],
-      "nectar_reward_q16": 80114,
+      "nectar_reward_q16": 79611,
       "waggle_angle_deg": 16,
       "waggle_duration_ms": 492,
       "state_trit": -1
@@ -873,10 +857,10 @@
         2,
         1
       ],
-      "nectar_reward_q16": 79983,
+      "nectar_reward_q16": 79646,
       "waggle_angle_deg": 17,
       "waggle_duration_ms": 516,
-      "state_trit": 1
+      "state_trit": -1
     },
     {
       "cell_id": 18,
@@ -891,13 +875,13 @@
         2,
         2
       ],
-      "nectar_reward_q16": 80167,
+      "nectar_reward_q16": 79555,
       "waggle_angle_deg": 18,
       "waggle_duration_ms": 540,
-      "state_trit": 0
+      "state_trit": 1
     }
   ],
   "beehive_rl_ticks": 32,
-  "beehive_queen_consensus_q16": 80089,
+  "beehive_queen_consensus_q16": 79687,
   "quant65k_layers_verified": 69634
 }
