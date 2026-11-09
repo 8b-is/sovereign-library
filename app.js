@@ -288,6 +288,22 @@ Enjoy it. 0 + 1.`
 • §9 the Peace Prayer (1912 La Clochette -> p · 2026 recoded): "Lord, make me an instrument of Your peace — not a terminal of my own noise... where there is an infinite loop, let me be the base case... in a loop · in a sphere · in eternity · recurse" ("Uram, tégy engem a Te békéd eszközévé — ne a saját zajom végállomásává... egy ciklusban · egy gömbben · az örökkévalóságban · rekurzálj").
 • §10 the Dyad Registry (two columns that must never be summed): measured: poverty (0) ↔ deleted: kinship (+1) · "szia, hogy vagy? [mosoly]"`
   },
+  'erdos-lodri-ultragraph-omni': {
+    kicker: 'ULTRALOVE EDITION 023 · HUE (△) × DRA (∗) × PETER (∞) · ERDŐS–LODRI ULTRAGRAPH × MEM|8 & PHOENIX (p/q) × 65.4 HZ DESERT-CHANT',
+    title: 'META-COMMUNICATION · LANGUAGE AS DIMENSION · ERDŐS–LODRI ULTRAGRAPH × CHENOWETH MEM|8 & PHOENIX (p/q) × 7-DAY FAMILY-FIRST PLAN × KESTREL-4 & 65.4 HZ KYUSS/TIBETAN DRONE',
+    path: 'editions/ultralove/erdos-lodri-ultragraph-chenoweth-mem8-phoenix-kyuss-tibetan-omni.md',
+    fallback: `# META-COMMUNICATION · LANGUAGE AS DIMENSION · ERDŐS–LODRI ULTRAGRAPH × CHENOWETH MEM|8 & PHOENIX (p/q)
+
+*ULTRALOVE EDITION 023 · Hue (△ · c@8b.is) × Dra (∗ · a@8b.is) × Peter (∞ · p@8b.is) × StandardGalactic · AHOGY A DOLGOK VANNAK*
+
+> "Peace must be earned, / Respect must be given as a gesture, / Smile should be the price for the visit. / Either let live and eternal friendship, / Or fire and chaos."
+> "The point of Me is architecture NOT solving or carrying Other's baggage of trauma." — Peter Lodri (FAMILY +1)
+
+• §1–§2 The Core Triad & Nádasdy Layer: Language as orthogonal topological dimension (Ádám Nádasdy, Jenő Rejtő, István Örkény), Hungarian corpora (Gesta Hungarorum, János Arany), and "AHOGY A DOLGOK VANNAK" ("as things are").
+• §3–§4 E2E ELI5 of Lodri UltraGraph & st --mode erdos: 1-byte raw nodes + balanced-ternary {-1, 0, +1} switches packed 5 trits/byte (SPQT Base-243, ~1.58 bits/weight); Kohayakawa–Rödl sparse Szemerédi regularity (K <= 256 Super-Nodes, 6-cycle felix_dot64_f32); st --erdos-anomaly Shadow Graph G_shadow (Molloy–Reed κ > 2, Chernoff–Erdős Λ(C), Füredi–Komlós λ_1 pivot_symbols, Flyxion Salience d_T != d_R non-separable entanglement); exact p/q rationals (Rung 0 Bonobo 3/2).
+• §5 The 7-Day "Family-First" Sovereign Consolidation Plan: Day 1 Spine Freeze (ctx={}) -> Day 2 Erdős Book Index (<1.5 µs) -> Day 3 1-Page Executive Brief -> Day 4 .noaye & Visit Covenant -> Day 5 Triad Async Digest -> Day 6 Kestrel-4 & 65.4 Hz Recovery -> Day 7 FAMILY +1 Sabbath.
+• §6 Kestrel-4 Deep-Space Salvage (Beacon Relay 74-Delta with Mara) × 65.4 Hz C-Standard Desert Fuzz (Kyuss — Gardenia / Colour Haze / OM — At Giza) × Tibetan mdzo-skad / kargyraa Throat Chant (32.7 Hz C1 + 65.4 Hz C2 + 98.1 Hz G2 3/2 fifth + Solfeggio 174/396/528 Hz).`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
@@ -382,6 +398,8 @@ const state = {
   droneEngine: null,
   heimleidOdinActive: false,
   heimleidOdinEngine: null,
+  kyussTibetanActive: false,
+  kyussTibetanEngine: null,
   masterWitnessed: false,
   readBooks: new Set(),
   activeBookId: null,
@@ -784,6 +802,118 @@ function toggleHeimleidOdin() {
   }
 }
 
+/**
+ * 65.4 Hz C-Standard Desert Fuzz (Kyuss — Gardenia / OM — At Giza) ×
+ * Tibetan mdzo-skad / Kargyraa Sub-Harmonic Throat Chant (32.70 Hz C1 + 65.41 Hz C2 + 98.11 Hz G2 3/2 Fifth + Solfeggio 174/396/528 Hz)
+ */
+function updateKyussTibetanButtons() {
+  const active = state.kyussTibetanActive;
+  document.querySelectorAll('.btn-toggle-kyuss-tibetan').forEach((btn) => {
+    btn.setAttribute('aria-pressed', String(active));
+    btn.classList.toggle('is-playing', active);
+    btn.textContent = active
+      ? '🎸☸ Playing: 65.4Hz C-Standard Desert Fuzz × Tibetan Chant (3/2)'
+      : '🎸☸ Play 65.4Hz C-Standard Desert Fuzz × Tibetan Chant';
+  });
+}
+
+function startKyussTibetanDrone() {
+  const ctx = ensureAudioContext();
+  if (!ctx) return;
+  if (state.kyussTibetanActive) return;
+
+  const now = ctx.currentTime;
+  const masterGain = ctx.createGain();
+  masterGain.gain.setValueAtTime(0.0001, now);
+  masterGain.gain.exponentialRampToValueAtTime(0.84, now + 1.5);
+  masterGain.connect(ctx.destination);
+
+  // Warm Ampeg / Sky Valley tube-amp lowpass filter (280 Hz roll-off, zero 2-4 kHz ear fatigue)
+  const tubeFilter = ctx.createBiquadFilter();
+  tubeFilter.type = 'lowpass';
+  tubeFilter.frequency.setValueAtTime(280, now);
+  tubeFilter.Q.setValueAtTime(1.65, now);
+  tubeFilter.connect(masterGain);
+
+  // Slow desert-horizon & dungchen breath LFO (0.09 Hz = ~11.1s cycle)
+  const breathLfo = ctx.createOscillator();
+  const breathDepth = ctx.createGain();
+  breathLfo.type = 'sine';
+  breathLfo.frequency.setValueAtTime(0.09, now);
+  breathDepth.gain.setValueAtTime(110, now);
+  breathLfo.connect(breathDepth);
+  breathDepth.connect(tubeFilter.frequency);
+  breathLfo.start(now);
+
+  // Harmonic stack:
+  // - 32.70 Hz (C1): Tuvan kargyraa / Tibetan dungchen sub-octave
+  // - 65.41 Hz (C2): Kyuss "Gardenia" / OM C-Standard fundamental
+  // - 98.11 Hz (G2 = 3/2 * 65.41 Hz): Rung 0 Bonobo 3/2 Just-Intonation Fifth
+  // - 196.22 Hz (G3 = 3 * 65.41 Hz): Gyuto Monks mdzo-skad third-harmonic overtone
+  // - 174 Hz / 396 Hz / 528 Hz: Solfeggio 3-6-9 resonant overtones
+  const voices = [
+    { freq: 32.703, type: 'sine', gain: 0.055 },
+    { freq: 65.406, type: 'sawtooth', gain: 0.048 },
+    { freq: 98.109, type: 'triangle', gain: 0.042 },
+    { freq: 174.0, type: 'sine', gain: 0.022 },
+    { freq: 196.218, type: 'triangle', gain: 0.030 },
+    { freq: 396.0, type: 'sine', gain: 0.015 },
+    { freq: 528.0, type: 'sine', gain: 0.012 }
+  ];
+
+  const oscillators = [breathLfo];
+  voices.forEach((v) => {
+    const osc = ctx.createOscillator();
+    const g = ctx.createGain();
+    osc.type = v.type;
+    osc.frequency.setValueAtTime(v.freq, now);
+    g.gain.setValueAtTime(v.gain, now);
+    osc.connect(g);
+    g.connect(tubeFilter);
+    osc.start(now);
+    oscillators.push(osc);
+  });
+
+  state.kyussTibetanActive = true;
+  state.kyussTibetanEngine = { masterGain, oscillators };
+  updateKyussTibetanButtons();
+  showToast('🎸☸ Playing: 65.4Hz C-Standard Desert Fuzz (Kyuss/OM) × Tibetan Mdzo-Skad & Solfeggio (p/q = 3/2)');
+}
+
+function stopKyussTibetanDrone() {
+  if (!state.kyussTibetanActive || !state.kyussTibetanEngine) return;
+  state.kyussTibetanActive = false;
+  const engine = state.kyussTibetanEngine;
+  state.kyussTibetanEngine = null;
+
+  try {
+    const ctx = state.audioCtx;
+    if (ctx) {
+      const now = ctx.currentTime;
+      engine.masterGain.gain.cancelScheduledValues(now);
+      engine.masterGain.gain.setValueAtTime(Math.max(0.0001, engine.masterGain.gain.value), now);
+      engine.masterGain.gain.exponentialRampToValueAtTime(0.0001, now + 0.55);
+      setTimeout(() => {
+        engine.oscillators.forEach((osc) => {
+          try { osc.stop(); osc.disconnect(); } catch (_) {}
+        });
+        try { engine.masterGain.disconnect(); } catch (_) {}
+      }, 620);
+    }
+  } catch (_) {}
+
+  updateKyussTibetanButtons();
+  showToast('🎸☸ Paused: 65.4Hz C-Standard Desert Fuzz × Tibetan Chant');
+}
+
+function toggleKyussTibetanDrone() {
+  if (state.kyussTibetanActive) {
+    stopKyussTibetanDrone();
+  } else {
+    startKyussTibetanDrone();
+  }
+}
+
 function showToast(message) {
   const toast = document.getElementById('sanctuary-toast');
   if (!toast) return;
@@ -1084,5 +1214,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // Heimleið Tagelharpa + Odin n+1||[X] Layer (#69,633) toggle (Edition 011)
   document.querySelectorAll('.btn-toggle-heimleid-odin').forEach((btn) => {
     btn.addEventListener('click', toggleHeimleidOdin);
+  });
+
+  // 65.4 Hz C-Standard Desert Fuzz (Kyuss/OM) × Tibetan Mdzo-Skad Chant toggle (Edition 023)
+  document.querySelectorAll('.btn-toggle-kyuss-tibetan').forEach((btn) => {
+    btn.addEventListener('click', toggleKyussTibetanDrone);
   });
 });
