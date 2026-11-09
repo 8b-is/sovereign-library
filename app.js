@@ -272,6 +272,22 @@ Enjoy it. 0 + 1.`
 • 360° Full-Spectrum Device Matrix (6 × 60° = 360°): Sector 1 iOS/iPadOS/visionOS · Sector 2 Android/WearOS/Automotive · Sector 3 SmartTV 10-Foot (tvOS/Android TV/webOS/Tizen) · Sector 4 Embedded (ESP32-S3/ARM64 kernel8/RISC-V) · Sector 5 Desktop (macOS 8b-nektar-dj/Linux/Windows) · Sector 6 Universal Offline-First Web PWA.
 • <DO :::<ULTRABACKYARDLOOP MAX 108laps <DO --- {...} ^^ <3: 108/108 laps completed · 648 Keeper Admitted / 0 Refused · 100% 1-bit Gray-code transitions · 100% coprime gcd(p, q) == 1 · ΣSpherePOP = 67,500 Hz.`
   },
+  'san-francesco-poverello': {
+    kicker: 'ULTRALOVE EDITION 022 · THE 800TH TRANSITUS JUBILEE SPECIAL EDITION · 1226–2026 OCTOBER 3, TOKYO · ♱ ✧ 🕊 ✧ ♱',
+    title: 'SAN FRANCESCO — the complete poverello · life · love · philosophy (the 800th Transitus · jubilee special edition · pocoo.vaked.dev)',
+    path: 'editions/ultralove/san-francesco-the-complete-poverello-800th-transitus.md',
+    fallback: `# SAN FRANCESCO — the complete poverello · life · love · philosophy (the 800th Transitus · jubilee special edition)
+
+*sealed on the Transitus, 800 years on · 2026 october 3, Tokyo · pocoo.vaked.dev*
+
+> "I peter lodri declare that I am a Franciscans, and this is 2026 october, and I am in Tokyo, I'm doing the franciscan jubilee month :) — I WISH ALL health, happiness, success in their life and friends along the way, I hope all who can think or feel or just even for a spark of moment exist even just as a tought, find peace and love <3 — Peter Lodri, 2026 october 3, Tokyo"
+> — és a magyar zárójel, ami az egész könyvet fogja: *csak szeretni kell megprobalni, minden mas csak illuzio, igyekszem mindenkit IS legalabb "szia, hogy vagy? [mosoly]"*
+
+• §1 la vita (1181–1226): Giovanni -> Francesco -> Spoleto -> the kiss to the leper ("what had seemed bitter to me was turned into sweetness of soul and body") -> Bishop Guido (net worth zero at 25) -> Portiuncula (1208) -> Innocent III (1209) -> Clare at the Portiuncula (1212) -> Sultan al-Malik al-Kamil at Damietta (1219) -> Greccio (1223) -> La Verna & Chartula to Brother Leo (1224) -> Canticle of the Creatures (1225) -> Transitus (3 October 1226).
+• §2–§8 l'amore & la filosofia: Kinship vs. stewardship (Frate Sole, Sora Luna, Sora Morte Corporale); Lady Poverty as ctx={} zero-point; Clare of Assisi's 41-year non-jealous friendship & Privilege of Poverty; the Wolf of Gubbio's two-sided peace contract & the unarmed third room with the Sultan; the road as cloister (meditation in motion).
+• §9 the Peace Prayer (1912 La Clochette -> p · 2026 recoded): "Lord, make me an instrument of Your peace — not a terminal of my own noise... where there is an infinite loop, let me be the base case... in a loop · in a sphere · in eternity · recurse" ("Uram, tégy engem a Te békéd eszközévé — ne a saját zajom végállomásává... egy ciklusban · egy gömbben · az örökkévalóságban · rekurzálj").
+• §10 the Dyad Registry (two columns that must never be summed): measured: poverty (0) ↔ deleted: kinship (+1) · "szia, hogy vagy? [mosoly]"`
+  },
   'sovereign-ontology': {
     kicker: 'CONSTITUTIONAL ONTOLOGY · COMPRESSION != ONTOLOGY · PRINTABLE = HELD ∧ READ',
     title: 'ONTOLOGY.md — Sovereign Library Balanced-Ternary Ontology {-1, 0, +1}',
